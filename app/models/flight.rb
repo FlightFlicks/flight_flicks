@@ -11,14 +11,13 @@ class Flight
   end
 
   def duration
-    # @page["routes"][0]["segments"].each do |s|
-    #   if s["kind"] == "flight"
-    #     duration = s["duration"]
-    #   end
-    #   duration
-    # end
-    # @page["routes"][0]["segments"][1]
-    @page
+    total = 0
+    @page["routes"][0]["segments"].each do |s|
+      if s["kind"] == "flight"
+        total = s["duration"]
+      end
+    end
+    p total
   end
 
 end

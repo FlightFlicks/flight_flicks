@@ -1,13 +1,14 @@
+
 class Movie
 
-  def initialize(genre)
+  def initialize
     @page = get_data
-    @genre = genre
+    @movie_id = movie_id
 
   end
 
   def get_data
-    HTTParty.get("")
+    HTTParty.get("http://api.themoviedb.org/3/movie/#{movie_id}?api_key=#{ENV[“MOVIE_KEY”]}")
     #will change later
   end
 
@@ -19,6 +20,9 @@ class Movie
     @page["title"]
   end
 
+  # def movie_id
+  #   @movie_id = MovieGenre.
+  # end
 
 
 

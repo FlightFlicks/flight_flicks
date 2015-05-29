@@ -9,7 +9,7 @@ class Movies
   end
 
   def get_data
-    HTTParty.get("http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=[#{ENV[“ROTTEN_KEY”]}.json")
+    HTTParty.get("http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=#{ENV[“ROTTEN_KEY”]}.json")
     #will change later
   end
 

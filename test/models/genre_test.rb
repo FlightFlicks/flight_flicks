@@ -2,11 +2,12 @@ require 'minitest/autorun'
 require 'minitest/pride'
 require 'json'
 
-class MovieGenres
+class Genres
   private def get_data
     JSON.parse(File.open("genre_ids.json").read)
   end
 end
 
-class MovieGenres < Minitest::Test
+class Genres < Minitest::Test
+
 end

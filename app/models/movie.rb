@@ -1,6 +1,4 @@
-require './flights'
-
-class Movies
+class Movie
 
   def initialize(genre)
     @page = get_data
@@ -9,7 +7,7 @@ class Movies
   end
 
   def get_data
-    HTTParty.get("http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=#{ENV[“ROTTEN_KEY”]}.json")
+    HTTParty.get("")
     #will change later
   end
 
@@ -19,10 +17,6 @@ class Movies
 
   def movie_title
     @page["title"]
-  end
-
-  def movie_genre
-    @page["genres"].find?(@genre)
   end
 
 

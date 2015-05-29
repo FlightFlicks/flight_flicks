@@ -1,7 +1,5 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require './flights.rb'
-require './movies.rb'
 require 'json'
 
 class Flights

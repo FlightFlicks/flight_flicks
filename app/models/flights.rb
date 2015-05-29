@@ -10,7 +10,7 @@ class FLights
   end
 
   def get_data
-    HTTParty.get("http://free.rome2rio.com/api/1.2/xml/Search?key=#{ENV[“RIO_ROME_KEY”]}=#{@origin}&dName=#{@destination}")
+    HTTParty.get("http://free.rome2rio.com/api/1.2/json/Search?key=#{ENV[“RIO_ROME_KEY”]}=#{@origin}&dName=#{@destination}")
   end
 
   def duration

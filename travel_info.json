@@ -1,0 +1,4588 @@
+{
+"serveTime": 511,
+"places": [
+{
+"kind": "city",
+"name": "Raleigh",
+"longName": "Raleigh, NC, USA",
+"pos": "35.7804,-78.63908",
+"countryCode": "US",
+"regionCode": "NC"
+},
+{
+"kind": "city",
+"name": "Denver",
+"longName": "Denver, CO, USA",
+"pos": "39.73915,-104.9847",
+"countryCode": "US",
+"regionCode": "CO"
+}
+],
+"airports": [
+{
+"code": "RDU",
+"name": "Raleigh/Durham",
+"pos": "35.87734,-78.78916",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"code": "DEN",
+"name": "Denver",
+"pos": "39.84951,-104.6739",
+"countryCode": "US",
+"timeZone": "America/Denver"
+},
+{
+"code": "CVG",
+"name": "Covington",
+"pos": "39.05522,-84.66125",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"code": "STL",
+"name": "St. Louis",
+"pos": "38.74218,-90.36578",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"code": "CLT",
+"name": "Charlotte",
+"pos": "35.22097,-80.94421",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"code": "ATL",
+"name": "Atlanta",
+"pos": "33.63998,-84.44403",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"code": "ORD",
+"name": "Chicago O'Hare",
+"pos": "41.97649,-87.90511",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"code": "DTW",
+"name": "Detroit",
+"pos": "42.20782,-83.35629",
+"countryCode": "US",
+"timeZone": "America/Detroit"
+},
+{
+"code": "MDW",
+"name": "Chicago Midway",
+"pos": "41.78805,-87.74214",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"code": "IAD",
+"name": "Washington Dulles",
+"pos": "38.95338,-77.44772",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"code": "DFW",
+"name": "Dallas/Ft.Worth",
+"pos": "32.8987,-97.04041",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+}
+],
+"airlines": [
+{
+"code": "F9",
+"name": "Frontier Airlines",
+"url": "http://www.flyfrontier.com",
+"iconPath": "/images/airlines/airlinesD3.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1248"
+},
+{
+"code": "WN",
+"name": "Southwest",
+"url": "http://www.southwest.com",
+"iconPath": "/images/airlines/airlinesD9.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,72"
+},
+{
+"code": "DL",
+"name": "Delta Air Lines",
+"url": "http://www.delta.com",
+"iconPath": "/images/airlines/airlinesD3.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,336"
+},
+{
+"code": "US",
+"name": "US Airways",
+"url": "http://www.usairways.com",
+"iconPath": "/images/airlines/airlinesD8.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,888"
+},
+{
+"code": "AA",
+"name": "American Airlines",
+"url": "http://www.aa.com",
+"iconPath": "/images/airlines/airlinesD1.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1944"
+},
+{
+"code": "AM",
+"name": "Aeromexico",
+"url": "http://www.aeromexico.com",
+"iconPath": "/images/airlines/airlinesD2.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,144"
+},
+{
+"code": "AS",
+"name": "Alaska Airlines",
+"url": "http://www.alaskaair.com",
+"iconPath": "/images/airlines/airlinesD2.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,264"
+},
+{
+"code": "G3",
+"name": "Gol",
+"url": "http://www.voegol.com.br",
+"iconPath": "/images/airlines/airlinesD3.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1824"
+},
+{
+"code": "KL",
+"name": "KLM",
+"url": "http://www.klm.com",
+"iconPath": "/images/airlines/airlinesD5.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,336"
+},
+{
+"code": "EY",
+"name": "Etihad Airways",
+"url": "http://www.etihadairways.com",
+"iconPath": "/images/airlines/airlinesD3.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1128"
+},
+{
+"code": "IB",
+"name": "Iberia",
+"url": "http://www.iberia.com",
+"iconPath": "/images/airlines/airlinesD4.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1032"
+},
+{
+"code": "JL",
+"name": "JAL",
+"url": "http://www.jal.co.jp",
+"iconPath": "/images/airlines/airlinesD4.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1800"
+},
+{
+"code": "VS",
+"name": "Virgin Atlantic",
+"url": "http://www.virgin-atlantic.com",
+"iconPath": "/images/airlines/airlinesD8.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1562"
+},
+{
+"code": "AF",
+"name": "Air France",
+"url": "http://www.airfrance.fr",
+"iconPath": "/images/airlines/airlinesD1.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,2088"
+},
+{
+"code": "AZ",
+"name": "Alitalia",
+"url": "http://www.alitalia.com",
+"iconPath": "/images/airlines/airlinesD2.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,480"
+},
+{
+"code": "UA",
+"name": "United",
+"url": "http://www.united.com",
+"iconPath": "/images/airlines/airlinesD8.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,552"
+},
+{
+"code": "EI",
+"name": "Aer Lingus",
+"url": "http://www.flyaerlingus.com",
+"iconPath": "/images/airlines/airlinesD3.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,793"
+},
+{
+"code": "AC",
+"name": "Air Canada",
+"url": "http://www.aircanada.ca",
+"iconPath": "/images/airlines/airlinesD1.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,2016"
+},
+{
+"code": "NH",
+"name": "ANA",
+"url": "http://www.fly-ana.com",
+"iconPath": "/images/airlines/airlinesD6.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,48"
+},
+{
+"code": "AB",
+"name": "airberlin",
+"url": "http://www.airberlin.com",
+"iconPath": "/images/airlines/airlinesD1.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1968"
+},
+{
+"code": "CX",
+"name": "Cathay Pacific",
+"url": "http://www.cathaypacific.com",
+"iconPath": "/images/airlines/airlinesD2.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,2040"
+},
+{
+"code": "WS",
+"name": "Westjet",
+"url": "http://www.westjet.com",
+"iconPath": "/images/airlines/airlinesD9.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,144"
+},
+{
+"code": "GF",
+"name": "Gulf Air",
+"url": "http://www.gulfair.com",
+"iconPath": "/images/airlines/airlinesD4.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,0"
+},
+{
+"code": "LH",
+"name": "Lufthansa",
+"url": "http://www.lufthansa.com",
+"iconPath": "/images/airlines/airlinesD5.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,888"
+},
+{
+"code": "SK",
+"name": "SAS",
+"url": "http://www.flysas.com",
+"iconPath": "/images/airlines/airlinesD7.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1320"
+},
+{
+"code": "LX",
+"name": "SWISS",
+"url": "http://www.swiss.com",
+"iconPath": "/images/airlines/airlinesD5.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1176"
+},
+{
+"code": "TK",
+"name": "Turkish Airlines",
+"url": "http://www.turkishairlines.com",
+"iconPath": "/images/airlines/airlinesD7.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,2087"
+},
+{
+"code": "CA",
+"name": "Air China Limited",
+"url": "http://www.airchina.com.cn",
+"iconPath": "/images/airlines/airlinesD2.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1512"
+},
+{
+"code": "CM",
+"name": "COPA",
+"url": "http://www.copaair.com",
+"iconPath": "/images/airlines/airlinesD2.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1752"
+},
+{
+"code": "SA",
+"name": "South African",
+"url": "http://www.flysaa.com",
+"iconPath": "/images/airlines/airlinesD7.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1056"
+},
+{
+"code": "ET",
+"name": "Ethiopian Airlines",
+"url": "http://www.ethiopianairlines.com",
+"iconPath": "/images/airlines/airlinesD3.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1008"
+},
+{
+"code": "QF",
+"name": "Qantas Airways",
+"url": "http://www.qantas.com",
+"iconPath": "/images/airlines/airlinesD6.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,2040"
+},
+{
+"code": "BA",
+"name": "British Airways",
+"url": "http://www.ba.com",
+"iconPath": "/images/airlines/airlinesD2.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,672"
+},
+{
+"code": "SN",
+"name": "Brussels Airlines",
+"url": "http://www.brusselsairlines.com",
+"iconPath": "/images/airlines/airlinesD7.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,1344"
+},
+{
+"code": "QR",
+"name": "Qatar Airways",
+"url": "http://www.qatarairways.com",
+"iconPath": "/images/airlines/airlinesD7.gif?v=201556",
+"iconSize": "27,23",
+"iconOffset": "0,168"
+}
+],
+"aircrafts": [
+{
+"code": "319",
+"manufacturer": "Airbus",
+"model": "A319"
+},
+{
+"code": "73W",
+"manufacturer": "Boeing",
+"model": "737-700"
+},
+{
+"code": "ERJ",
+"manufacturer": "Embraer",
+"model": "ERJ 135 / ERJ 140 / ERJ 145"
+},
+{
+"code": "CR9",
+"manufacturer": "Canadair",
+"model": "CRJ 900"
+},
+{
+"code": "73C",
+"manufacturer": "Boeing",
+"model": "737-300"
+},
+{
+"code": "321",
+"manufacturer": "Airbus",
+"model": "A321-100/200"
+},
+{
+"code": "739",
+"manufacturer": "Boeing",
+"model": "737-900"
+},
+{
+"code": "320",
+"manufacturer": "Airbus",
+"model": "A320-100/200"
+},
+{
+"code": "M80",
+"manufacturer": "McDonnell Douglas",
+"model": "MD-80"
+},
+{
+"code": "738",
+"manufacturer": "Boeing",
+"model": "737-800"
+},
+{
+"code": "757",
+"manufacturer": "Boeing",
+"model": "757"
+},
+{
+"code": "M90",
+"manufacturer": "McDonnell Douglas",
+"model": "MD-90"
+},
+{
+"code": "M88",
+"manufacturer": "McDonnell Douglas",
+"model": "MD-88"
+},
+{
+"code": "CR7",
+"manufacturer": "Canadair",
+"model": "CRJ 700"
+},
+{
+"code": "E70",
+"manufacturer": "Embraer",
+"model": "EMB 170"
+},
+{
+"code": "73H",
+"manufacturer": "Boeing",
+"model": "737-800"
+},
+{
+"code": "E75",
+"manufacturer": "Embraer",
+"model": "EMB 175"
+},
+{
+"code": "ER4",
+"manufacturer": "Embraer",
+"model": "ERJ 145"
+},
+{
+"code": "32B",
+"manufacturer": "Airbus",
+"model": "A321-200"
+}
+],
+"agencies": [
+{
+"code": "TRIANGLETRANSIT",
+"name": "Triangle Transit",
+"url": "http://www.triangletransit.org",
+"iconPath": "/logos/trains/triangle.png",
+"iconSize": "27,23",
+"iconOffset": "0,0"
+},
+{
+"code": "RTD",
+"name": "RTD",
+"url": "http://www3.rtd-denver.com",
+"iconPath": "/logos/trains/rtd.png",
+"iconSize": "27,23",
+"iconOffset": "0,0"
+},
+{
+"code": "AMTRAK",
+"name": "Amtrak",
+"url": "http://www.amtrak.com",
+"iconPath": "/logos/trains/Amtrak.png",
+"iconSize": "27,23",
+"iconOffset": "0,0"
+},
+{
+"code": "CAPITALAREATRANSIT",
+"name": "Capital Area Transit",
+"url": "http://www.raleighnc.gov/transit",
+"iconPath": "/logos/trains/cat.png",
+"iconSize": "27,23",
+"iconOffset": "0,0"
+},
+{
+"code": "GREYHOUNDUSA",
+"name": "Greyhound USA",
+"url": "http://www.greyhound.com",
+"iconPath": "/logos/trains/Greyhound.png",
+"iconSize": "27,23",
+"iconOffset": "0,0"
+},
+{
+"code": "BARONSBUS",
+"name": "Barons Bus",
+"url": "http://www.baronsbus.com",
+"iconPath": "/logos/trains/BaronsBus.png",
+"iconSize": "27,23",
+"iconOffset": "0,0"
+},
+{
+"code": "BURLINGTONTRAILWAYS",
+"name": "Burlington Trailways",
+"url": "http://www.burlingtontrailways.com",
+"iconPath": "/logos/trains/Trailways.png",
+"iconSize": "27,23",
+"iconOffset": "0,0"
+}
+],
+"routes": [
+{
+"name": "Fly",
+"distance": 2370.22,
+"duration": 414,
+"totalTransferDuration": 123,
+"indicativePrice": {
+"price": 183,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"stops": [
+{
+"name": "Raleigh",
+"pos": "35.7804,-78.63908",
+"kind": "city",
+"countryCode": "US",
+"regionCode": "NC"
+},
+{
+"name": "Raleigh/Durham",
+"pos": "35.87734,-78.78916",
+"kind": "airport",
+"code": "RDU",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Denver",
+"pos": "39.84951,-104.6739",
+"kind": "airport",
+"code": "DEN",
+"countryCode": "US",
+"timeZone": "America/Denver"
+},
+{
+"name": "Denver",
+"pos": "39.73915,-104.9847",
+"kind": "city",
+"countryCode": "US",
+"regionCode": "CO"
+}
+],
+"segments": [
+{
+"kind": "bus",
+"subkind": "bus",
+"vehicle": "bus",
+"isMajor": 0,
+"isImperial": 1,
+"distance": 22.32,
+"duration": 31,
+"transferDuration": 0,
+"sName": "Edenton St at Salisbury St",
+"sPos": "35.78133,-78.64026",
+"tName": "RDU Airport at Terminal 2",
+"tPos": "35.87662,-78.79266",
+"path": "ipkyEpl~~M[tX|BlXo@~R}BbIgKpRuErMgLzb@iEzUqE|\\oH`e@aQn^qEjZyGvo@bA|g@bExTqQfGeVaAsUaBdAtYsB|V}Hjb@oTfj@}u@jnAsjD|eIaXt\\_b@{CoLhHw\\z\\iMwEiG{NoTqWsPcOoYsWmFfKjH~K",
+"indicativePrice": {
+"price": 3,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://triangletransit.org/bus/maps-and-schedules/",
+"host": "triangletransit.org",
+"hops": [
+{
+"sName": "Edenton St at Salisbury St",
+"sPos": "35.78133,-78.64026",
+"tName": "RDU Airport at Terminal 2",
+"tPos": "35.87662,-78.79266",
+"frequency": 236,
+"duration": 31,
+"indicativePrice": {
+"price": 3,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "100",
+"vehicle": "bus",
+"agency": "TRIANGLETRANSIT",
+"frequency": 236,
+"duration": 31,
+"days": 127
+}
+],
+"agencies": [
+{
+"agency": "TRIANGLETRANSIT",
+"frequency": 236,
+"duration": 31,
+"actions": [
+{
+"text": "Schedules at",
+"url": "http://triangletransit.org/bus/maps-and-schedules/",
+"displayUrl": "triangletransit.org"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Edenton St at Salisbury St",
+"pos": "35.78133,-78.64026",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "W Edenton St at S Harrington St",
+"pos": "35.78147,-78.64437",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Glenwood Ave",
+"pos": "35.78084,-78.64844",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at St Marys College",
+"pos": "35.78108,-78.65163",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Mayo St",
+"pos": "35.7817,-78.65326",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Park Ave",
+"pos": "35.78367,-78.65639",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Forest Rd",
+"pos": "35.78474,-78.65873",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Enterprise St",
+"pos": "35.78686,-78.66447",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Horne St",
+"pos": "35.78786,-78.66813",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Brooks Ave",
+"pos": "35.78892,-78.67291",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Shepherd St",
+"pos": "35.79044,-78.67901",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Faircloth St",
+"pos": "35.79333,-78.68404",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at Meredith College",
+"pos": "35.79438,-78.68842",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Hillsborough St at NCSU Veterinary School",
+"pos": "35.79545,-78.70277",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Blue Ridge Rd at State Fairgrounds",
+"pos": "35.79744,-78.70759",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Blue Ridge Rd at Ramada Inn",
+"pos": "35.80115,-78.70726",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "RDU Airport at Terminal 1",
+"pos": "35.87269,-78.79256",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "RDU Airport at Terminal 2",
+"pos": "35.87662,-78.79266",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+}
+]
+},
+{
+"kind": "flight",
+"isMajor": 1,
+"distance": 2306.24,
+"duration": 220,
+"transferDuration": 120,
+"sCode": "RDU",
+"tCode": "DEN",
+"indicativePrice": {
+"price": 170,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 200,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DEN",
+"sTerminal": "2",
+"sTime": "06:00",
+"tTime": "07:40",
+"flight": "566",
+"airline": "F9",
+"duration": 220,
+"aircraft": "319"
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 63,
+"indicativePrice": {
+"price": 210,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DEN",
+"sTerminal": "1",
+"sTime": "09:05",
+"tTime": "10:50",
+"flight": "2585",
+"airline": "WN",
+"duration": 225,
+"aircraft": "73W"
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 64,
+"indicativePrice": {
+"price": 210,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DEN",
+"sTerminal": "1",
+"sTime": "10:10",
+"tTime": "11:55",
+"flight": "1326",
+"airline": "WN",
+"duration": 225,
+"aircraft": "73W"
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 64,
+"indicativePrice": {
+"price": 210,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DEN",
+"sTerminal": "1",
+"sTime": "15:00",
+"tTime": "16:50",
+"flight": "2474",
+"airline": "WN",
+"duration": 230,
+"aircraft": "73W"
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 63,
+"indicativePrice": {
+"price": 210,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DEN",
+"sTerminal": "1",
+"sTime": "16:40",
+"tTime": "18:30",
+"flight": "2355",
+"airline": "WN",
+"duration": 230,
+"aircraft": "73W"
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 62,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "CVG",
+"sTerminal": "2",
+"tTerminal": "3",
+"sTime": "07:00",
+"tTime": "08:35",
+"flight": "3337",
+"airline": "DL",
+"duration": 95,
+"aircraft": "ERJ"
+},
+{
+"sCode": "CVG",
+"tCode": "DEN",
+"sTerminal": "3",
+"sTime": "09:30",
+"tTime": "10:17",
+"flight": "3741",
+"airline": "DL",
+"duration": 167,
+"aircraft": "CR9",
+"lDuration": 55
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 64,
+"indicativePrice": {
+"price": 210,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "STL",
+"sTerminal": "1",
+"tTerminal": "2",
+"sTime": "08:35",
+"tTime": "09:40",
+"flight": "4564",
+"airline": "WN",
+"duration": 125,
+"aircraft": "73C"
+},
+{
+"sCode": "STL",
+"tCode": "DEN",
+"sTerminal": "2",
+"sTime": "10:30",
+"tTime": "11:55",
+"flight": "1112",
+"airline": "WN",
+"duration": 145,
+"aircraft": "73W",
+"lDuration": 50
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 62,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "CVG",
+"sTerminal": "2",
+"tTerminal": "3",
+"sTime": "07:00",
+"tTime": "08:35",
+"flight": "3337",
+"airline": "DL",
+"duration": 95,
+"aircraft": "ERJ"
+},
+{
+"sCode": "CVG",
+"tCode": "DEN",
+"sTerminal": "3",
+"sTime": "09:30",
+"tTime": "10:22",
+"flight": "4504",
+"airline": "DL",
+"duration": 172,
+"aircraft": "CR9",
+"lDuration": 55
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "CLT",
+"sTerminal": "2",
+"sTime": "14:34",
+"tTime": "15:31",
+"flight": "853",
+"airline": "US",
+"duration": 57,
+"aircraft": "319",
+"codeshares": [
+{
+"airline": "AA",
+"flight": " 853"
+}
+]
+},
+{
+"sCode": "CLT",
+"tCode": "DEN",
+"sTime": "16:25",
+"tTime": "17:57",
+"flight": "482",
+"airline": "US",
+"duration": 212,
+"aircraft": "321",
+"lDuration": 54,
+"codeshares": [
+{
+"airline": "AA",
+"flight": " 482"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ATL",
+"sTerminal": "2",
+"tTerminal": "S",
+"sTime": "06:00",
+"tTime": "07:20",
+"flight": "1456",
+"airline": "DL",
+"duration": 80,
+"aircraft": "739",
+"codeshares": [
+{
+"airline": "AM",
+"flight": "5483"
+},
+{
+"airline": "AS",
+"flight": "5258"
+}
+]
+},
+{
+"sCode": "ATL",
+"tCode": "DEN",
+"sTerminal": "S",
+"sTime": "08:15",
+"tTime": "09:28",
+"flight": "1816",
+"airline": "DL",
+"duration": 193,
+"aircraft": "739",
+"lDuration": 55,
+"codeshares": [
+{
+"airline": "G3",
+"flight": "8184"
+},
+{
+"airline": "KL",
+"flight": "5420"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "CLT",
+"sTerminal": "2",
+"sTime": "05:25",
+"tTime": "06:19",
+"flight": "1813",
+"airline": "US",
+"duration": 54,
+"aircraft": "320",
+"codeshares": [
+{
+"airline": "AA",
+"flight": "1813"
+}
+]
+},
+{
+"sCode": "CLT",
+"tCode": "DEN",
+"sTime": "07:39",
+"tTime": "09:06",
+"flight": "1709",
+"airline": "US",
+"duration": 207,
+"aircraft": "321",
+"lDuration": 80,
+"codeshares": [
+{
+"airline": "AA",
+"flight": "1709"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 260,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ORD",
+"sTerminal": "2",
+"tTerminal": "3",
+"sTime": "08:27",
+"tTime": "09:35",
+"flight": "1539",
+"airline": "AA",
+"duration": 128,
+"aircraft": "M80",
+"codeshares": [
+{
+"airline": "EY",
+"flight": "3373"
+},
+{
+"airline": "IB",
+"flight": "7217"
+},
+{
+"airline": "JL",
+"flight": "7415"
+},
+{
+"airline": "US",
+"flight": "1539"
+}
+]
+},
+{
+"sCode": "ORD",
+"tCode": "DEN",
+"sTerminal": "3",
+"sTime": "10:30",
+"tTime": "12:08",
+"flight": "2413",
+"airline": "AA",
+"duration": 158,
+"aircraft": "738",
+"lDuration": 55,
+"codeshares": [
+{
+"airline": "AS",
+"flight": "1450"
+},
+{
+"airline": "JL",
+"flight": "7324"
+},
+{
+"airline": "US",
+"flight": "2413"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ATL",
+"sTerminal": "2",
+"tTerminal": "S",
+"sTime": "07:15",
+"tTime": "08:51",
+"flight": "1482",
+"airline": "DL",
+"duration": 96,
+"aircraft": "757",
+"codeshares": [
+{
+"airline": "AS",
+"flight": "5649"
+}
+]
+},
+{
+"sCode": "ATL",
+"tCode": "DEN",
+"sTerminal": "S",
+"sTime": "09:43",
+"tTime": "10:57",
+"flight": "1382",
+"airline": "DL",
+"duration": 194,
+"aircraft": "M90",
+"lDuration": 52,
+"codeshares": [
+{
+"airline": "G3",
+"flight": "8084"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 63,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ATL",
+"sTerminal": "2",
+"tTerminal": "S",
+"sTime": "16:00",
+"tTime": "17:30",
+"flight": "1077",
+"airline": "DL",
+"duration": 90,
+"aircraft": "M88",
+"codeshares": [
+{
+"airline": "AS",
+"flight": "6150"
+},
+{
+"airline": "G3",
+"flight": "8281"
+},
+{
+"airline": "VS",
+"flight": "5276"
+}
+]
+},
+{
+"sCode": "ATL",
+"tCode": "DEN",
+"sTerminal": "S",
+"sTime": "18:25",
+"tTime": "19:45",
+"flight": "798",
+"airline": "DL",
+"duration": 200,
+"aircraft": "M90",
+"lDuration": 55,
+"codeshares": [
+{
+"airline": "AF",
+"flight": "2796"
+},
+{
+"airline": "AM",
+"flight": "5781"
+},
+{
+"airline": "AZ",
+"flight": "3093"
+},
+{
+"airline": "KL",
+"flight": "5476"
+},
+{
+"airline": "VS",
+"flight": "4699"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ATL",
+"sTerminal": "2",
+"tTerminal": "S",
+"sTime": "08:25",
+"tTime": "09:55",
+"flight": "1137",
+"airline": "DL",
+"duration": 90,
+"aircraft": "738",
+"codeshares": [
+{
+"airline": "AM",
+"flight": "5134"
+},
+{
+"airline": "AS",
+"flight": "5434"
+}
+]
+},
+{
+"sCode": "ATL",
+"tCode": "DEN",
+"sTerminal": "S",
+"sTime": "10:50",
+"tTime": "12:10",
+"flight": "1916",
+"airline": "DL",
+"duration": 200,
+"aircraft": "M90",
+"lDuration": 55,
+"codeshares": [
+{
+"airline": "G3",
+"flight": "8188"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 0,
+"isReturn": 0,
+"legs": [
+{
+"days": 63,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ORD",
+"sTerminal": "2",
+"tTerminal": "1",
+"sTime": "06:50",
+"tTime": "08:05",
+"flight": "1913",
+"airline": "UA",
+"duration": 135,
+"aircraft": "739",
+"codeshares": [
+{
+"airline": "EI",
+"flight": "6754"
+}
+]
+},
+{
+"sCode": "ORD",
+"tCode": "DEN",
+"sTerminal": "1",
+"sTime": "09:00",
+"tTime": "10:35",
+"flight": "245",
+"airline": "UA",
+"duration": 155,
+"aircraft": "320",
+"lDuration": 55,
+"codeshares": [
+{
+"airline": "AC",
+"flight": "5127"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ORD",
+"sTerminal": "2",
+"tTerminal": "1",
+"sTime": "08:14",
+"tTime": "09:30",
+"flight": "3663",
+"airline": "UA",
+"duration": 136,
+"aircraft": "CR7",
+"codeshares": [
+{
+"airline": "EI",
+"flight": "6752"
+},
+{
+"airline": "NH",
+"flight": "7567"
+}
+]
+},
+{
+"sCode": "ORD",
+"tCode": "DEN",
+"sTerminal": "1",
+"sTime": "10:20",
+"tTime": "12:00",
+"flight": "1660",
+"airline": "UA",
+"duration": 160,
+"aircraft": "739",
+"lDuration": 50,
+"codeshares": [
+{
+"airline": "AC",
+"flight": "5785"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 57,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ATL",
+"sTerminal": "2",
+"tTerminal": "S",
+"sTime": "18:20",
+"tTime": "19:54",
+"flight": "1774",
+"airline": "DL",
+"duration": 94,
+"aircraft": "M90",
+"codeshares": [
+{
+"airline": "AF",
+"flight": "8627"
+},
+{
+"airline": "AS",
+"flight": "5017"
+},
+{
+"airline": "G3",
+"flight": "8285"
+},
+{
+"airline": "KL",
+"flight": "7964"
+},
+{
+"airline": "VS",
+"flight": "5278"
+}
+]
+},
+{
+"sCode": "ATL",
+"tCode": "DEN",
+"sTerminal": "S",
+"sTime": "20:45",
+"tTime": "22:09",
+"flight": "1214",
+"airline": "DL",
+"duration": 204,
+"aircraft": "M90",
+"lDuration": 51,
+"codeshares": [
+{
+"airline": "VS",
+"flight": "5061"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 63,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ORD",
+"sTerminal": "2",
+"tTerminal": "1",
+"sTime": "06:45",
+"tTime": "07:55",
+"flight": "3581",
+"airline": "UA",
+"duration": 130,
+"aircraft": "E70",
+"codeshares": [
+{
+"airline": "EI",
+"flight": "6754"
+},
+{
+"airline": "NH",
+"flight": "7781"
+}
+]
+},
+{
+"sCode": "ORD",
+"tCode": "DEN",
+"sTerminal": "1",
+"sTime": "09:00",
+"tTime": "10:35",
+"flight": "245",
+"airline": "UA",
+"duration": 155,
+"aircraft": "320",
+"lDuration": 65,
+"codeshares": [
+{
+"airline": "AC",
+"flight": "5127"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 126,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DTW",
+"sTerminal": "2",
+"tTerminal": "EM",
+"sTime": "06:00",
+"tTime": "07:52",
+"flight": "1934",
+"airline": "DL",
+"duration": 112,
+"aircraft": "M90"
+},
+{
+"sCode": "DTW",
+"tCode": "DEN",
+"sTerminal": "EM",
+"sTime": "08:45",
+"tTime": "09:50",
+"flight": "1511",
+"airline": "DL",
+"duration": 185,
+"aircraft": "73H",
+"lDuration": 53,
+"codeshares": [
+{
+"airline": "G3",
+"flight": "8218"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 62,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DTW",
+"sTerminal": "2",
+"tTerminal": "EM",
+"sTime": "06:00",
+"tTime": "07:45",
+"flight": "861",
+"airline": "DL",
+"duration": 105,
+"aircraft": "M90"
+},
+{
+"sCode": "DTW",
+"tCode": "DEN",
+"sTerminal": "EM",
+"sTime": "08:45",
+"tTime": "09:50",
+"flight": "1511",
+"airline": "DL",
+"duration": 185,
+"aircraft": "73H",
+"lDuration": 60,
+"codeshares": [
+{
+"airline": "G3",
+"flight": "8218"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 63,
+"indicativePrice": {
+"price": 210,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "MDW",
+"sTerminal": "1",
+"sTime": "13:40",
+"tTime": "14:35",
+"flight": "421",
+"airline": "WN",
+"duration": 115,
+"aircraft": "73W"
+},
+{
+"sCode": "MDW",
+"tCode": "DEN",
+"sTime": "15:55",
+"tTime": "17:30",
+"flight": "1060 4279",
+"airline": "WN",
+"duration": 155,
+"aircraft": "73H",
+"lDuration": 80
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "CLT",
+"sTerminal": "2",
+"sTime": "07:10",
+"tTime": "08:11",
+"flight": "883",
+"airline": "US",
+"duration": 61,
+"aircraft": "321",
+"codeshares": [
+{
+"airline": "AA",
+"flight": " 883"
+}
+]
+},
+{
+"sCode": "CLT",
+"tCode": "DEN",
+"sTime": "09:30",
+"tTime": "11:00",
+"flight": "1818",
+"airline": "US",
+"duration": 210,
+"aircraft": "321",
+"lDuration": 79,
+"codeshares": [
+{
+"airline": "AA",
+"flight": "1818"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 260,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ORD",
+"sTerminal": "2",
+"tTerminal": "3",
+"sTime": "11:51",
+"tTime": "12:58",
+"flight": "2260",
+"airline": "AA",
+"duration": 127,
+"aircraft": "M80",
+"codeshares": [
+{
+"airline": "AB",
+"flight": "4642"
+},
+{
+"airline": "AS",
+"flight": "1185"
+},
+{
+"airline": "CX",
+"flight": "7674"
+},
+{
+"airline": "IB",
+"flight": "4295"
+},
+{
+"airline": "JL",
+"flight": "7677"
+},
+{
+"airline": "US",
+"flight": "2260"
+},
+{
+"airline": "WS",
+"flight": "5133"
+}
+]
+},
+{
+"sCode": "ORD",
+"tCode": "DEN",
+"sTerminal": "3",
+"sTime": "14:00",
+"tTime": "15:42",
+"flight": "1006",
+"airline": "AA",
+"duration": 162,
+"aircraft": "M80",
+"lDuration": 62,
+"codeshares": [
+{
+"airline": "AB",
+"flight": "4697"
+},
+{
+"airline": "AS",
+"flight": "1335"
+},
+{
+"airline": "EY",
+"flight": "3118"
+},
+{
+"airline": "GF",
+"flight": "6858"
+},
+{
+"airline": "US",
+"flight": "1006"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 21,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ORD",
+"sTerminal": "2",
+"tTerminal": "1",
+"sTime": "16:46",
+"tTime": "18:07",
+"flight": "3497",
+"airline": "UA",
+"duration": 141,
+"aircraft": "E70",
+"codeshares": [
+{
+"airline": "LH",
+"flight": "9115"
+},
+{
+"airline": "SK",
+"flight": "8864"
+}
+]
+},
+{
+"sCode": "ORD",
+"tCode": "DEN",
+"sTerminal": "1",
+"sTime": "19:00",
+"tTime": "20:39",
+"flight": "269",
+"airline": "UA",
+"duration": 159,
+"aircraft": "320",
+"lDuration": 53,
+"codeshares": [
+{
+"airline": "AC",
+"flight": "5759"
+},
+{
+"airline": "EI",
+"flight": "6061"
+},
+{
+"airline": "LX",
+"flight": "3288"
+},
+{
+"airline": "SK",
+"flight": "8731"
+},
+{
+"airline": "TK",
+"flight": "8617"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 59,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ATL",
+"sTerminal": "2",
+"tTerminal": "S",
+"sTime": "17:15",
+"tTime": "18:45",
+"flight": "1666",
+"airline": "DL",
+"duration": 90,
+"aircraft": "M88",
+"codeshares": [
+{
+"airline": "AM",
+"flight": "5483"
+},
+{
+"airline": "G3",
+"flight": "8283"
+},
+{
+"airline": "VS",
+"flight": "5272"
+},
+{
+"airline": "KL",
+"flight": "7294"
+}
+]
+},
+{
+"sCode": "ATL",
+"tCode": "DEN",
+"sTerminal": "S",
+"sTime": "19:50",
+"tTime": "21:10",
+"flight": "996",
+"airline": "DL",
+"duration": 200,
+"aircraft": "M90",
+"lDuration": 65,
+"codeshares": [
+{
+"airline": "AF",
+"flight": "2796"
+},
+{
+"airline": "AM",
+"flight": "5163"
+},
+{
+"airline": "AZ",
+"flight": "5992"
+},
+{
+"airline": "KL",
+"flight": "5476"
+},
+{
+"airline": "VS",
+"flight": "5063"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 62,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "IAD",
+"sTerminal": "2",
+"sTime": "10:24",
+"tTime": "11:32",
+"flight": "1683",
+"airline": "UA",
+"duration": 68,
+"aircraft": "738",
+"codeshares": [
+{
+"airline": "CA",
+"flight": "7391"
+},
+{
+"airline": "CM",
+"flight": "8426"
+},
+{
+"airline": "LH",
+"flight": "8849"
+},
+{
+"airline": "SA",
+"flight": "7477"
+}
+]
+},
+{
+"sCode": "IAD",
+"tCode": "DEN",
+"sTime": "12:25",
+"tTime": "14:19",
+"flight": "1090",
+"airline": "UA",
+"duration": 234,
+"aircraft": "739",
+"lDuration": 53,
+"codeshares": [
+{
+"airline": "ET",
+"flight": "1364"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 64,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "IAD",
+"sTerminal": "2",
+"sTime": "10:22",
+"tTime": "11:30",
+"flight": "5115 1683",
+"airline": "UA",
+"duration": 68,
+"aircraft": "E75",
+"codeshares": [
+{
+"airline": "CM",
+"flight": "8426"
+},
+{
+"airline": "LH",
+"flight": "8849"
+},
+{
+"airline": "SA",
+"flight": "7477"
+}
+]
+},
+{
+"sCode": "IAD",
+"tCode": "DEN",
+"sTime": "12:25",
+"tTime": "14:17",
+"flight": "735",
+"airline": "UA",
+"duration": 232,
+"aircraft": "320",
+"lDuration": 55,
+"codeshares": [
+{
+"airline": "ET",
+"flight": "1364"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 64,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "IAD",
+"sTerminal": "2",
+"sTime": "10:21",
+"tTime": "11:34",
+"flight": "3394",
+"airline": "UA",
+"duration": 73,
+"aircraft": "ER4",
+"codeshares": [
+{
+"airline": "CM",
+"flight": "8426"
+},
+{
+"airline": "LH",
+"flight": "8814"
+},
+{
+"airline": "SA",
+"flight": "7477"
+}
+]
+},
+{
+"sCode": "IAD",
+"tCode": "DEN",
+"sTime": "12:25",
+"tTime": "14:17",
+"flight": "735",
+"airline": "UA",
+"duration": 232,
+"aircraft": "320",
+"lDuration": 51,
+"codeshares": [
+{
+"airline": "ET",
+"flight": "1364"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 270,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DFW",
+"sTerminal": "2",
+"tTerminal": "0",
+"sTime": "12:39",
+"tTime": "14:35",
+"flight": "322",
+"airline": "AA",
+"duration": 176,
+"aircraft": "M80",
+"codeshares": [
+{
+"airline": "AS",
+"flight": "1303"
+},
+{
+"airline": "QF",
+"flight": "4608"
+},
+{
+"airline": "US",
+"flight": " 322"
+},
+{
+"airline": "WS",
+"flight": "5173"
+}
+]
+},
+{
+"sCode": "DFW",
+"tCode": "DEN",
+"sTerminal": "0",
+"sTime": "15:25",
+"tTime": "16:37",
+"flight": "369",
+"airline": "AA",
+"duration": 132,
+"aircraft": "32B",
+"lDuration": 50,
+"codeshares": [
+{
+"airline": "AS",
+"flight": "1095"
+},
+{
+"airline": "BA",
+"flight": "5714"
+},
+{
+"airline": "GF",
+"flight": "6722"
+},
+{
+"airline": "QF",
+"flight": "4355"
+},
+{
+"airline": "US",
+"flight": " 369"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 62,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "IAD",
+"sTerminal": "2",
+"sTime": "10:21",
+"tTime": "11:34",
+"flight": "3394",
+"airline": "UA",
+"duration": 73,
+"aircraft": "ER4",
+"codeshares": [
+{
+"airline": "CM",
+"flight": "8426"
+},
+{
+"airline": "LH",
+"flight": "8814"
+},
+{
+"airline": "SA",
+"flight": "7477"
+}
+]
+},
+{
+"sCode": "IAD",
+"tCode": "DEN",
+"sTime": "12:25",
+"tTime": "14:19",
+"flight": "1090",
+"airline": "UA",
+"duration": 234,
+"aircraft": "739",
+"lDuration": 51,
+"codeshares": [
+{
+"airline": "ET",
+"flight": "1364"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 17,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ORD",
+"sTerminal": "2",
+"tTerminal": "1",
+"sTime": "16:40",
+"tTime": "17:54",
+"flight": "350",
+"airline": "UA",
+"duration": 134,
+"aircraft": "320",
+"codeshares": [
+{
+"airline": "EI",
+"flight": "6753"
+},
+{
+"airline": "LH",
+"flight": "9115"
+},
+{
+"airline": "SK",
+"flight": "8864"
+}
+]
+},
+{
+"sCode": "ORD",
+"tCode": "DEN",
+"sTerminal": "1",
+"sTime": "19:00",
+"tTime": "20:39",
+"flight": "269",
+"airline": "UA",
+"duration": 159,
+"aircraft": "320",
+"lDuration": 66,
+"codeshares": [
+{
+"airline": "AC",
+"flight": "5759"
+},
+{
+"airline": "EI",
+"flight": "6061"
+},
+{
+"airline": "LX",
+"flight": "3288"
+},
+{
+"airline": "SK",
+"flight": "8731"
+},
+{
+"airline": "TK",
+"flight": "8617"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 270,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DFW",
+"sTerminal": "2",
+"tTerminal": "0",
+"sTime": "19:01",
+"tTime": "20:55",
+"flight": "1079",
+"airline": "AA",
+"duration": 174,
+"aircraft": "M80",
+"codeshares": [
+{
+"airline": "QF",
+"flight": "4542"
+},
+{
+"airline": "US",
+"flight": "1079"
+}
+]
+},
+{
+"sCode": "DFW",
+"tCode": "DEN",
+"sTerminal": "0",
+"sTime": "21:55",
+"tTime": "23:00",
+"flight": "81",
+"airline": "AA",
+"duration": 125,
+"aircraft": "738",
+"lDuration": 60,
+"codeshares": [
+{
+"airline": "BA",
+"flight": "5734"
+},
+{
+"airline": "GF",
+"flight": "6603"
+},
+{
+"airline": "US",
+"flight": "  81"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 1,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "IAD",
+"sTerminal": "2",
+"sTime": "17:00",
+"tTime": "18:03",
+"flight": "5933",
+"airline": "UA",
+"duration": 63,
+"aircraft": "ERJ",
+"codeshares": [
+{
+"airline": "CM",
+"flight": "5430"
+}
+]
+},
+{
+"sCode": "IAD",
+"tCode": "DEN",
+"sTime": "19:09",
+"tTime": "21:00",
+"flight": "1584",
+"airline": "UA",
+"duration": 231,
+"aircraft": "739",
+"lDuration": 66,
+"codeshares": [
+{
+"airline": "LH",
+"flight": "7460"
+},
+{
+"airline": "SN",
+"flight": "8826"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "CLT",
+"sTerminal": "2",
+"sTime": "09:25",
+"tTime": "10:27",
+"flight": "659",
+"airline": "US",
+"duration": 62,
+"aircraft": "319",
+"codeshares": [
+{
+"airline": "AA",
+"flight": " 659"
+}
+]
+},
+{
+"sCode": "CLT",
+"tCode": "DEN",
+"sTime": "11:50",
+"tTime": "13:26",
+"flight": "686",
+"airline": "US",
+"duration": 216,
+"aircraft": "321",
+"lDuration": 83,
+"codeshares": [
+{
+"airline": "AA",
+"flight": " 686"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 1,
+"indicativePrice": {
+"price": 230,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "IAD",
+"sTerminal": "2",
+"sTime": "10:22",
+"tTime": "11:30",
+"flight": "5115 1683",
+"airline": "UA",
+"duration": 68,
+"aircraft": "E75",
+"codeshares": [
+{
+"airline": "CM",
+"flight": "8426"
+},
+{
+"airline": "LH",
+"flight": "8849"
+},
+{
+"airline": "SA",
+"flight": "7477"
+}
+]
+},
+{
+"sCode": "IAD",
+"tCode": "DEN",
+"sTime": "12:30",
+"tTime": "14:24",
+"flight": "1090",
+"airline": "UA",
+"duration": 234,
+"aircraft": "739",
+"lDuration": 60,
+"codeshares": [
+{
+"airline": "ET",
+"flight": "1364"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 64,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DTW",
+"sTerminal": "2",
+"tTerminal": "EM",
+"sTime": "09:30",
+"tTime": "11:12",
+"flight": "3421",
+"airline": "DL",
+"duration": 102,
+"aircraft": "ERJ"
+},
+{
+"sCode": "DTW",
+"tCode": "DEN",
+"sTerminal": "EM",
+"sTime": "12:20",
+"tTime": "13:33",
+"flight": "1645",
+"airline": "DL",
+"duration": 193,
+"aircraft": "M90",
+"lDuration": 68,
+"codeshares": [
+{
+"airline": "G3",
+"flight": "8220"
+},
+{
+"airline": "KL",
+"flight": "5574"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "DTW",
+"sTerminal": "2",
+"tTerminal": "EM",
+"sTime": "09:30",
+"tTime": "11:13",
+"flight": "5508",
+"airline": "DL",
+"duration": 103,
+"aircraft": "CR7"
+},
+{
+"sCode": "DTW",
+"tCode": "DEN",
+"sTerminal": "EM",
+"sTime": "12:20",
+"tTime": "13:33",
+"flight": "1645",
+"airline": "DL",
+"duration": 193,
+"aircraft": "M90",
+"lDuration": 67,
+"codeshares": [
+{
+"airline": "G3",
+"flight": "8220"
+},
+{
+"airline": "KL",
+"flight": "5574"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 260,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "ORD",
+"sTerminal": "2",
+"tTerminal": "3",
+"sTime": "14:55",
+"tTime": "16:10",
+"flight": "2498",
+"airline": "AA",
+"duration": 135,
+"aircraft": "M80",
+"codeshares": [
+{
+"airline": "AS",
+"flight": "1206"
+},
+{
+"airline": "QR",
+"flight": "5365"
+},
+{
+"airline": "US",
+"flight": "2498"
+},
+{
+"airline": "WS",
+"flight": "5115"
+}
+]
+},
+{
+"sCode": "ORD",
+"tCode": "DEN",
+"sTerminal": "3",
+"sTime": "17:10",
+"tTime": "18:59",
+"flight": "1691",
+"airline": "AA",
+"duration": 169,
+"aircraft": "738",
+"lDuration": 60,
+"codeshares": [
+{
+"airline": "BA",
+"flight": "8661"
+},
+{
+"airline": "CX",
+"flight": "7553"
+},
+{
+"airline": "EY",
+"flight": "3277"
+},
+{
+"airline": "GF",
+"flight": "6567"
+},
+{
+"airline": "IB",
+"flight": "7015"
+},
+{
+"airline": "QR",
+"flight": "5340"
+},
+{
+"airline": "US",
+"flight": "1691"
+}
+]
+}
+]
+}
+]
+},
+{
+"isHidden": 1,
+"isReturn": 0,
+"legs": [
+{
+"days": 127,
+"indicativePrice": {
+"price": 190,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"hops": [
+{
+"sCode": "RDU",
+"tCode": "CLT",
+"sTerminal": "2",
+"sTime": "19:40",
+"tTime": "20:38",
+"flight": "2034",
+"airline": "US",
+"duration": 58,
+"aircraft": "319",
+"codeshares": [
+{
+"airline": "AA",
+"flight": "2034"
+}
+]
+},
+{
+"sCode": "CLT",
+"tCode": "DEN",
+"sTime": "22:20",
+"tTime": "23:44",
+"flight": "676",
+"airline": "US",
+"duration": 204,
+"aircraft": "321",
+"lDuration": 102,
+"codeshares": [
+{
+"airline": "AA",
+"flight": " 676"
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"kind": "bus",
+"subkind": "bus",
+"vehicle": "bus",
+"isMajor": 0,
+"isImperial": 1,
+"distance": 41.66,
+"duration": 40,
+"transferDuration": 3,
+"sName": "DIA West: Island # 5",
+"sPos": "39.84936,-104.6752",
+"tName": "Union Station Gate B7",
+"tPos": "39.75436,-105.0018",
+"path": "oafrFbk{}RqLjDlNzd@~Q_Cr\\o`@~k@bTqBbePfJjt@v`@no@lg@~RhQn@ftBG~b@jFzy@jQ`s@f@|Q~BBkt@fRjPCgQ_SGGfu@d\\NzCzNmMbr@sE~b@gn@~ePOf_DwIf{@Jf~DqCzXhIvB`bBv}BhW[zMbRgMnQh^br@",
+"indicativePrice": {
+"price": 10,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://www3.rtd-denver.com/schedules/getRouteList.action?routeType=9",
+"host": "www3.rtd-denver.com",
+"hops": [
+{
+"sName": "DIA West: Island # 5",
+"sPos": "39.84936,-104.6752",
+"tName": "Union Station Gate B7",
+"tPos": "39.75436,-105.0018",
+"frequency": 1444,
+"duration": 40,
+"indicativePrice": {
+"price": 10,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "Af",
+"vehicle": "bus",
+"agency": "RTD",
+"frequency": 1444,
+"duration": 41,
+"days": 127
+}
+],
+"agencies": [
+{
+"agency": "RTD",
+"frequency": 1444,
+"duration": 41,
+"actions": [
+{
+"text": "Schedules at",
+"url": "http://www3.rtd-denver.com/schedules/getRouteList.action?routeType=9",
+"displayUrl": "www3.rtd-denver.com"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "DIA West: Island # 5",
+"pos": "39.84936,-104.6752",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+},
+{
+"name": "Airport Blvd & 40th Ave PnR Gate G",
+"pos": "39.76965,-104.7864",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+},
+{
+"name": "Union Station Gate B7",
+"pos": "39.75436,-105.0018",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+}
+]
+}
+]
+},
+{
+"name": "Train",
+"distance": 3380.36,
+"duration": 2517,
+"totalTransferDuration": 120,
+"indicativePrice": {
+"price": 202,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"stops": [
+{
+"name": "Raleigh, NC",
+"pos": "35.77416,-78.64486",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Washington, DC",
+"pos": "38.89751,-77.00618",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Chicago",
+"pos": "41.87867,-87.63953",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Denver",
+"pos": "39.7528,-104.9998",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+}
+],
+"segments": [
+{
+"kind": "train",
+"subkind": "train",
+"vehicle": "train",
+"isMajor": 1,
+"isImperial": 1,
+"distance": 491.4,
+"duration": 362,
+"transferDuration": 0,
+"sName": "Raleigh, NC",
+"sPos": "35.77416,-78.64486",
+"tName": "Washington DC",
+"tPos": "38.8975,-77.00618",
+"path": "ocjyEhi__NlhCcbAbkAlWpiDsoBhtAe_FvAexBrlAeqE`j@scA|l@o~B|XkpC`dCyvC`[qNpsMgqVr_BkxAjxBmsEiTgj@u_FqsQagBe}DuFeuAcwOqre@yeAu|@afFuwBcsConAq~AofA_rAaZyrYcbM_aD{y@wrHu|BodCyd@gwS}oKwpE{[}wFwrGqmEucB_vAwXglJ{dEecEakAsd@TwaEzcCma@bGc_I_hAc[eMaiFycHsjNozCk`@mEoaFjiAupCrGy|DfyAy{@aDoyEafAoqPmiLodBmf@owCiOo_Bev@g_AklAwbRwxGiiHlH{vEq`A{yArD_p[pgDyaDmAsnBbkAqiA~HebEesBudAm|@u~DyRyv@bGmmDrzBmoBjfCa|Adu@qcBkOa`D_zBy~CbSua@nTkaAmZqh@|ZmnCkN_v@os@erEfJu[mGa{A_SumAvzEq]b^emEhqCggG|tB}kIqj@m|Re_EauF{rAexBaGm\\xTidCdKatErt@smBohCcfCg}@uU_yB~\\m~BeN}qDmv@qc@_mBvJywBfk@qaF`_@i|CRgxAh`@qsGxxEmbFrmFk`BvP_lCyyBe`A}Jw~Bdg@_yB{s@apAbjBqbBtu@yaCcVk[wu@i_FzDcn@if@yRmyCsnAeuA_kBwt@w}@wbCcxAmy@_aBse@yfDmtDszDi`Aof@iXgrDq|@}bAcnAw{Do{BkeA{aA__C`Nmy@gd@ydEmk@u|DgIgv@ob@s~@{uAg_FobAirBorDe{EesBwiAm}AewBuc@ql@ikFmW{v@vLcwEcs@c{AigAyp@otCtRkwAmMufC}lBaJqs@qhAgbB",
+"indicativePrice": {
+"price": 45,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://free.rome2rio.com/agencyredirect?oName=Raleigh%2C%20NC&dName=Denver&date=2015-05-29&oPos=35.7741623,-78.64486&dPos=39.7527962,-104.999817&queryDest=Denver",
+"host": "amtrak.com",
+"hops": [
+{
+"sName": "Raleigh, NC",
+"sPos": "35.77416,-78.64486",
+"tName": "Washington DC",
+"tPos": "38.8975,-77.00618",
+"frequency": 14,
+"duration": 362,
+"indicativePrice": {
+"price": 45,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "Carolinian",
+"vehicle": "train",
+"agency": "AMTRAK",
+"frequency": 7,
+"duration": 329
+},
+{
+"name": "Silver Star",
+"vehicle": "train",
+"agency": "AMTRAK",
+"frequency": 7,
+"duration": 396
+}
+],
+"agencies": [
+{
+"agency": "AMTRAK",
+"frequency": 14,
+"duration": 362,
+"actions": [
+{
+"text": "Book at",
+"url": "http://free.rome2rio.com/agencyredirect?oName=Raleigh%2C%20NC&dName=Denver&date=2015-05-29&oPos=35.7741623,-78.64486&dPos=39.7527962,-104.999817&queryDest=Denver",
+"displayUrl": "amtrak.com",
+"moustacheUrl": "http://{r2rHostname}/agencyredirect?oName={fromName}&dName={toName}&date={year}-{month}-{day}&oPos={fromLat},{fromLng}&dPos={toLat},{toLng}&queryDest={toName}"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Raleigh, NC",
+"pos": "35.77416,-78.64486",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Selma, NC",
+"pos": "35.53217,-78.28072",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Wilson, NC",
+"pos": "35.72349,-77.90727",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Rocky Mount, NC",
+"pos": "35.93797,-77.79717",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Petersburg, VA",
+"pos": "37.24227,-77.42887",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Richmond, VA",
+"pos": "37.53563,-77.42825",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Fredericksburg, VA",
+"pos": "38.29834,-77.4567",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Quantico, VA",
+"pos": "38.52222,-77.29285",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Alexandria, VA",
+"pos": "38.80626,-77.06175",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Washington DC",
+"pos": "38.8975,-77.00618",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+}
+]
+},
+{
+"kind": "train",
+"subkind": "train",
+"vehicle": "train",
+"isMajor": 1,
+"isImperial": 1,
+"distance": 1228.81,
+"duration": 1000,
+"transferDuration": 60,
+"sName": "Washington, DC",
+"sPos": "38.89751,-77.00618",
+"tName": "Chicago, IL",
+"tPos": "41.87867,-87.64039",
+"path": "mdllFpg_uM}cFceAqvJbdFknEx`Gcm@~`B{sHhfJkcDlhAoyDbgDqt@zyFoxCh_H}pAnwHmqE|_Qo`@`dEuuBtfCivB|tIygH`yHhb@nzD}vCfqNp_@fwHstAnuGkaD|mGfF|_HquAb|BwcEfZ_oBhxAqaBbUa`AjkHaf@~^ecHlQs_HddBesF~c@eeF`gHwwFdaHykCbaMiB`iFv{AhmBvJprCbgBcWzaDtuEdpAz~@_dCjxNx_KnvIxqDttDdz@cErpCnqEke@zrLpRv}D_yAr{DyAliIwoDnwK}nExtCoqBu|@}kApl@kQteDmkCii@qqBjuDg|E{f@_fEiiCunBqzCy_FswA_vExGqmBp|OhsEzdHo]prFm`CreEh{Bj_EppBfbCilCjnCv@pcEy{CjdC_zCtdA}yBfhJwzCdhDp_@|yE`yCjkDvpAl`CbzBwU|uBdzDf]nlIhjBlgC_p@pxD_mDbmEcdA~{Lm|Bl}B{fCouAigHxeAsiCpjDrN|jH_pCbwDubEpKquDhwAi_DmFsnD{zCojLn_BweAvgBe|Dt@wpC{~EaqFe|CwdFvqDcxBfzGgJzaNuxA|`D_gDzkE}uCzuAv\\fnEow@tiB`t@deCswC~nFc`Erc@k~@vzD`GzcHztAtnCkxBnbGahFfpG_jEhaTenJ`pHoaB}Ju[z~@wqEf\\ucFdzBw~At{D{dD|f@q~D|hC_eKduAxYl~AeWrwGwpGne@SbpCp|B`}Hry@drUw}DpsDu`C~mHqF~aKrsCfmKmtBdiG_yC~qDuhB`iDpF|bd@cHhg@c`EjeEix[lrNix@|_BqvFxiDscEdxOugJb}S{~CblDgwHr`GewGreAiqEv_Bk_BlsDspG~}Ik_Edd@egE`iFvtFtvSvm@noAheOrnLbx@hdCuAtme@~^rzCpEtdBs`I`lm@riB|fIzhCbdGjdAd`KkxBhiGmMr|CilGrfQenAzfScpBpjEusEtqEg_A~}Rqv@prGaDhq^yaGf{f@wIzfMucLrzRsm@|mBa@vrHvXdaB|oMhfyAx|Xbl|Cg\\zn\\el@jme@ck@~sFtGbkB{aCvhy@qWfsA{zVzco@_a@n_CaeDzoGwvDrsFqaDnrCvqAvgItt@ryf@{fAj{Diy@bcFy[f`BewCv}e@qt@bbNcQbpk@jc@nqHjlAzjCr`@nrEtwArmCbhAz~FbyIn_Rio@~zHfXftKnyAbhKfDfaHjTrr@a}@~bGwmDbhMghLraSulIvxLw}G_o@eoIbyDkcC~lC",
+"indicativePrice": {
+"price": 65,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://free.rome2rio.com/agencyredirect?oName=Raleigh%2C%20NC&dName=Denver&date=2015-05-29&oPos=35.7741623,-78.64486&dPos=39.7527962,-104.999817&queryDest=Denver",
+"host": "amtrak.com",
+"hops": [
+{
+"sName": "Washington, DC",
+"sPos": "38.89751,-77.00618",
+"tName": "Chicago, IL",
+"tPos": "41.87867,-87.64039",
+"frequency": 7,
+"duration": 1000,
+"indicativePrice": {
+"price": 65,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "Capitol Limited",
+"vehicle": "train",
+"agency": "AMTRAK",
+"frequency": 7,
+"duration": 1000
+}
+],
+"agencies": [
+{
+"agency": "AMTRAK",
+"frequency": 7,
+"duration": 1000,
+"actions": [
+{
+"text": "Book at",
+"url": "http://free.rome2rio.com/agencyredirect?oName=Raleigh%2C%20NC&dName=Denver&date=2015-05-29&oPos=35.7741623,-78.64486&dPos=39.7527962,-104.999817&queryDest=Denver",
+"displayUrl": "amtrak.com",
+"moustacheUrl": "http://{r2rHostname}/agencyredirect?oName={fromName}&dName={toName}&date={year}-{month}-{day}&oPos={fromLat},{fromLng}&dPos={toLat},{toLng}&queryDest={toName}"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Washington, DC",
+"pos": "38.89751,-77.00618",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Rockville, MD",
+"pos": "39.08421,-77.14604",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Harpers Ferry, WV",
+"pos": "39.32464,-77.73115",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Martinsburg, WV",
+"pos": "39.45884,-77.96068",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Cumberland, MD",
+"pos": "39.65114,-78.75811",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Connellsville, PA",
+"pos": "40.02022,-79.59281",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Pittsburgh, PA",
+"pos": "40.44476,-79.99193",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Alliance, OH",
+"pos": "40.92157,-81.09313",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Cleveland, OH",
+"pos": "41.50529,-81.69624",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Elyria, OH",
+"pos": "41.3703,-82.09619",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Sandusky, OH",
+"pos": "41.44077,-82.71877",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Toledo, OH",
+"pos": "41.63799,-83.54167",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Waterloo, IN",
+"pos": "41.43156,-85.02555",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Indiana/Indianapolis"
+},
+{
+"name": "Elkhart, IN",
+"pos": "41.68052,-85.97128",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Indiana/Indianapolis"
+},
+{
+"name": "South Bend, IN",
+"pos": "41.67797,-86.28759",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Indiana/Indianapolis"
+},
+{
+"name": "Chicago, IL",
+"pos": "41.87867,-87.64039",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+}
+]
+},
+{
+"kind": "train",
+"subkind": "train",
+"vehicle": "train",
+"isMajor": 1,
+"isImperial": 1,
+"distance": 1660.15,
+"duration": 1035,
+"transferDuration": 60,
+"sName": "Chicago",
+"sPos": "41.87867,-87.63953",
+"tName": "Denver",
+"tPos": "39.7528,-104.9998",
+"path": "ulr~F~a|uOnl@~zDpiB~{CtjJvqr@tAniOwOfaDvsBbaN~P~rOvpAboMlbDvwErzFbfGflHnig@nWzxEtiPny}AvlAvpAfnNrvZt}BfgHhrJ~l]kg@n_GnoIz`\\nbBf_DfsBb}Gz@fgHjuKfm`@tgIbwIdzLvy]lkIfuOxvUjiV`w@rlAb~G~jPbErkJmUffPmoArqG|zGr{U|OfdR}_AnqLrHjpBlfJbzVhQj}Bo~CjfElSjgB}PfdU}rQvlX{y@~wBo~EnxYub@riNwf@~sBmKzqHkbArkIxF~bHc_BrpIr@jcRg\\vfK`l@jtKr`BbeQfFjs]s~BnkNap@fv@wsAnzB}mJb{UdKbwLyJr}GfnDnaHrn@rsF|lCf_F}KfaMnkGzbJxvBnxFdRrhLynBbsWtYjjIrz@fxFu}AzjFmyDnvDshCf|H`rA~|TngArfK|iArlD{rBbkOoU~eKgbBjsG`\\bw@lyAbqIgfBv~Kg`BnjEppArzFjArbGnkCnnPeTfbJa~B~e\\cwAvxCs@j~FnfAnlEeBfdKdm@jaLpO~xIdgDjbIrSz`IbbGneTfa@~xIrlEn`PsDr|Ha{Dv{IquB~`HaPn{CyeEveQvn@bgHkeAn{J|NnjD}f@znHlYfeE}hArvMvxBn`MuqAr}Gw}AvbBikCjeL|sBfpGlhC~iE_tAfsDsoLrnBaqUod@krDn`Ekq@vpCjH~lJts@n~BrkHnbGma@nkIrnB~fE|\\jeGeo@~}JlbBntFdiIv~IxpDzbA`oGflLbvCjkEhfLnmLfdBnsF|nUzzi@|VjEtbGrtFpaAztMxeDf`BnyAzkCjsIb~Eb|Gv~K{Cv{F_hFvjb@dcEbofB`x@bbWn{BvhFbBreBs_A~iZk_@jqC}JvjHfa@vlFzhC~wRdc@vgZAfjLsj@nfBu\\~iQe_CrhI{KbpItsTztq@r]rvBzbHvq_Aj{BbhPtt@zcEvwMn_PflBnnFl|GnsBrlJfoA_OriEclBrzFkvFbwe@waAzdFjMnqBem@n_Jg@rcPdtBryP|z@bpLvtDnqUrm@jhNzwAf}L~AnlFdz@n{F~xBv}HgBb|FnJjvBy`@~{Gw{D~wSlIjyCvkBv_HxfA~{Gd`AzpKldAjsFdb@zoNx[f~DvsCf|TtcBnmHvu@fiQl~FztSxwEnwH~jA~yHyaAjpT~FrkCt}AziQqInvA`qAnaSonGznQo{BzhJqh@zxLlSbqSs{BzdLjXrzCkdAr~Kwe@vzQ|d@~wDybHrubB~ZnzS}w@rpR}VreAfSz}L{jAj_FefOvtYsn@bqIhz@~qGdm@rqc@f_@f|Yuo@~tMzXboErgEbyJnyEf|Oba@rsDxu@vhi@trFfrEroCf_Lsk@~kEtr@vlDjtDzdGdgPboO|qBzoDrq^boc@j{HnzI?B",
+"indicativePrice": {
+"price": 90,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://free.rome2rio.com/agencyredirect?oName=Raleigh%2C%20NC&dName=Denver&date=2015-05-29&oPos=35.7741623,-78.64486&dPos=39.7527962,-104.999817&queryDest=Denver",
+"host": "amtrak.com",
+"hops": [
+{
+"sName": "Chicago",
+"sPos": "41.87867,-87.63953",
+"tName": "Denver",
+"tPos": "39.7528,-104.9998",
+"frequency": 7,
+"duration": 1035,
+"indicativePrice": {
+"price": 90,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "California Zephyr",
+"vehicle": "train",
+"agency": "AMTRAK",
+"frequency": 7,
+"duration": 1035
+}
+],
+"agencies": [
+{
+"agency": "AMTRAK",
+"frequency": 7,
+"duration": 1035,
+"actions": [
+{
+"text": "Book at",
+"url": "http://free.rome2rio.com/agencyredirect?oName=Raleigh%2C%20NC&dName=Denver&date=2015-05-29&oPos=35.7741623,-78.64486&dPos=39.7527962,-104.999817&queryDest=Denver",
+"displayUrl": "amtrak.com",
+"moustacheUrl": "http://{r2rHostname}/agencyredirect?oName={fromName}&dName={toName}&date={year}-{month}-{day}&oPos={fromLat},{fromLng}&dPos={toLat},{toLng}&queryDest={toName}"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Chicago",
+"pos": "41.87867,-87.63953",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Naperville",
+"pos": "41.77972,-88.14555",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Princeton",
+"pos": "41.38512,-89.4669",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Galesburg",
+"pos": "40.94476,-90.36463",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Burlington",
+"pos": "40.8056,-91.10181",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Mount Pleasant",
+"pos": "40.97125,-91.55065",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Ottumwa, IA",
+"pos": "41.01892,-92.41409",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Osceola, IA",
+"pos": "41.0372,-93.765",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Creston, IA",
+"pos": "41.05698,-94.3614",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Omaha, IA",
+"pos": "41.24979,-95.92717",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Lincoln, IA",
+"pos": "40.81598,-96.71386",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Hastings",
+"pos": "40.58375,-98.38766",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Holdrege, IA",
+"pos": "40.43573,-99.371",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "McCook",
+"pos": "40.19737,-100.6256",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Fort Morgan",
+"pos": "40.24694,-103.8027",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+},
+{
+"name": "Denver",
+"pos": "39.7528,-104.9998",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+}
+]
+}
+]
+},
+{
+"name": "Bus, line 1081 bus",
+"distance": 3495.37,
+"duration": 3013,
+"totalTransferDuration": 300,
+"indicativePrice": {
+"price": 371,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"stops": [
+{
+"name": "Wilmington St at Morgan St",
+"pos": "35.78002,-78.638",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Raleigh, NC",
+"pos": "35.80613,-78.61569",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Winston-Salem, NC",
+"pos": "36.09968,-80.24538",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Atlanta, GA",
+"pos": "33.74852,-84.39641",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Cincinnati, OH",
+"pos": "39.10795,-84.50423",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Indianapolis, IN",
+"pos": "39.76208,-86.16012",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Indiana/Indianapolis"
+},
+{
+"name": "Denver, CO",
+"pos": "39.75038,-104.9916",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+}
+],
+"segments": [
+{
+"kind": "bus",
+"subkind": "bus",
+"vehicle": "bus",
+"isMajor": 0,
+"isImperial": 1,
+"distance": 4.12,
+"duration": 8,
+"transferDuration": 0,
+"sName": "Wilmington St at Morgan St",
+"sPos": "35.78002,-78.638",
+"tName": "Capital Blvd at Crabtree Blvd",
+"tPos": "35.8064,-78.61603",
+"path": "chkyEl~}~MmKGkPa@oL\\yElCb@}Hb@kNAa@kOy@_ImGaN{HsJqEiHsEoD{JyGkJPsA}Nw]aHuJyNkL",
+"indicativePrice": {
+"price": 1,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://www.raleighnc.gov/services/content/PWksTransit/Articles/CATRoute1.html",
+"host": "raleighnc.gov",
+"hops": [
+{
+"sName": "Wilmington St at Morgan St",
+"sPos": "35.78002,-78.638",
+"tName": "Capital Blvd at Crabtree Blvd",
+"tPos": "35.8064,-78.61603",
+"frequency": 580,
+"duration": 8,
+"indicativePrice": {
+"price": 1,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "1",
+"vehicle": "bus",
+"agency": "CAPITALAREATRANSIT",
+"frequency": 580,
+"duration": 9,
+"days": 127
+}
+],
+"agencies": [
+{
+"agency": "CAPITALAREATRANSIT",
+"frequency": 580,
+"duration": 9,
+"actions": [
+{
+"text": "Schedules at",
+"url": "http://www.raleighnc.gov/services/content/PWksTransit/Articles/CATRoute1.html",
+"displayUrl": "raleighnc.gov"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Wilmington St at Morgan St",
+"pos": "35.78002,-78.638",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "N Wilmington St at E Edenton St",
+"pos": "35.78201,-78.63795",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "N Wilmington St at North St",
+"pos": "35.78479,-78.63779",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "E Peace St at N Wilmington St",
+"pos": "35.78786,-78.63706",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "E Peace St at N Person St",
+"pos": "35.78768,-78.6346",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "N Person St at E Franklin St",
+"pos": "35.79031,-78.63414",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Wake Forest Rd at Lafayette Rd",
+"pos": "35.79432,-78.6312",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Wake Forest Rd at Frank St",
+"pos": "35.79618,-78.63016",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Wake Forest Rd at Clifton St",
+"pos": "35.79855,-78.6272",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Capital Blvd at Fenton St",
+"pos": "35.80242,-78.62003",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Capital Blvd at Crabtree Blvd",
+"pos": "35.8064,-78.61603",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+}
+]
+},
+{
+"kind": "bus",
+"subkind": "bus",
+"vehicle": "bus",
+"isMajor": 1,
+"isImperial": 1,
+"distance": 172.93,
+"duration": 171,
+"transferDuration": 60,
+"sName": "Raleigh, NC",
+"sPos": "35.80613,-78.61569",
+"tName": "Winston-Salem, NC",
+"tPos": "36.09968,-80.24538",
+"path": "ikpyE~ry~Mty@~fDaV`zBaEhrC_Odv@oEh}Bm^rmA}u@jnAsjD|eIwuCp{Ew`CjdC}}@veCysBoy@}iBcOasAz_@uhBxM}t@ts@cr@psBaYz[{a@jbAmOoJelAd{C{f@f|@af@lbBwkArl@wY~|A{GvzGiyBtgJjPlpByQfoA{@deBcrAnxDkFhgCa`@rjGxPheEtt@fgDq@pvCfNxsA_Qv{AtAdrFtf@lnApJtuAqOvrAwNr}C~@jgDm[npBpMbiChMhlAnDfpAjPbgCsHtvBj\\rhKmDds@aEhuF|Nh}Cfd@xiDjZj`B~AhiBsa@`fAakBpg@zZzfAl_Av_@~gBfrB}n@vbCeUpdDsrIbd^kx@hdGpQnfBcHxb@{PhmKpm@`xBzI`dA`Rle@dk@f|DbC`sBoc@jL",
+"indicativePrice": {
+"price": 24,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://www.greyhound.com/",
+"host": "greyhound.com",
+"hops": [
+{
+"sName": "Raleigh, NC",
+"sPos": "35.80613,-78.61569",
+"tName": "Winston-Salem, NC",
+"tPos": "36.09968,-80.24538",
+"frequency": 28,
+"duration": 171,
+"indicativePrice": {
+"price": 24,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "1057",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 7,
+"duration": 155
+},
+{
+"name": "1071",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 7,
+"duration": 190
+},
+{
+"name": "1075",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 7,
+"duration": 185
+},
+{
+"name": "4845",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 7,
+"duration": 155
+}
+],
+"agencies": [
+{
+"agency": "GREYHOUNDUSA",
+"frequency": 28,
+"duration": 171,
+"actions": [
+{
+"text": "Schedules at",
+"url": "http://www.greyhound.com/",
+"displayUrl": "greyhound.com"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Raleigh, NC",
+"pos": "35.80613,-78.61569",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Durham, NC",
+"pos": "35.99658,-78.90698",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Greensboro, NC",
+"pos": "36.06929,-79.78771",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Winston-Salem, NC",
+"pos": "36.09968,-80.24538",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+}
+]
+},
+{
+"kind": "bus",
+"subkind": "bus",
+"vehicle": "bus",
+"isMajor": 1,
+"isImperial": 1,
+"distance": 511.98,
+"duration": 255,
+"transferDuration": 60,
+"sName": "Winston-Salem, NC",
+"sPos": "36.09968,-80.24538",
+"tName": "Atlanta, GA",
+"tPos": "33.74852,-84.39641",
+"path": "_vi{Er|whNtzA}dB`nD~RjhC~i@l}BcVnxCxNpxCeq@dtCj`@~|AoUt{HzY|cAbiEnlCztAbwDjYrwBvdAr_Ez~FbgB`mBfvCddEtcGzqC`mBvwF~oAx`CjkLd|NfqD~nBx_DzJduD{t@fuHxjFnyAxmJjcCzzBhjAntBz{DpqA|gE`yD`yAjg@|gAn}@leB|i@lkAriAbj@jkDtZh|Gfb@hpCjdBhcCvp@rb@|V`pBiU`~Ds~AtmGNfxHoj@zfBWfgDjWrqBgo@`iGujBd`JjoCnxKzOniBl}CpeEh`@pcAnwDfiGv\\zkCliCx{Dje@ptCdj@rcBtAvoAvcClrFjs@jqEjq@lhCfaApbBnEbgBzh@j_C~GdwBl]r}AxH`wCztAh}Cd|@fcIp}A|~CfwBvfHdnA`zHhqA`sDu@zpKvnCnqClx@je@tUrjAzhA|dBz`@|oCbz@~bAbgBjdAxyD~gHt`@pzC|e@haAdb@n~Dt|EroOju@z`@tsCrvFti@h|Btj@dv@|q@ziErYhuEtBzpBjn@jcBzuA~_BvjIhpDhhCjl@by@veAlcBbjEzkEvaG|k@~tB`|B~kCr|@z`DpdBblDdv@jrC|fAlcI`|A~_HbjBztDfwAhdGj`@fjLxbAf|HfkAbpD`v@zeA`IbkAxvAhkGdaDrwHvxBnrDdXbfA|{DtoKvt@lpA~lA|zEtrAplBfa@j`B|sBr|Ehv@d`ArfCl_GdgCfsCbjAp`BjpAtnCheBz`C~rBt|E~nBx`Hz|IdnP`d@nvAzg@raJdlAz}EpyAtsC`LlrAncAz`FtLh_Clj@rqCrOrnDn}@brCzo@boDZbsDf_A~kD|kDvrE`fIb`FnwCvkInm@z`AfbBzxEje@f_A~f@~sDprBvwDpbHz{Gh|BvrHb~CnjEdhFKpy@bQ",
+"indicativePrice": {
+"price": 60,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://www.greyhound.com/",
+"host": "greyhound.com",
+"hops": [
+{
+"sName": "Winston-Salem, NC",
+"sPos": "36.09968,-80.24538",
+"tName": "Atlanta, GA",
+"tPos": "33.74852,-84.39641",
+"frequency": 14,
+"duration": 255,
+"indicativePrice": {
+"price": 60,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "1081",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 14,
+"duration": 255
+}
+],
+"agencies": [
+{
+"agency": "GREYHOUNDUSA",
+"frequency": 14,
+"duration": 255,
+"actions": [
+{
+"text": "Schedules at",
+"url": "http://www.greyhound.com/",
+"displayUrl": "greyhound.com"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Winston-Salem, NC",
+"pos": "36.09968,-80.24538",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Atlanta, GA",
+"pos": "33.74852,-84.39641",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+}
+]
+},
+{
+"kind": "bus",
+"subkind": "bus",
+"vehicle": "bus",
+"isMajor": 1,
+"isImperial": 1,
+"distance": 760.48,
+"duration": 615,
+"transferDuration": 60,
+"sName": "Atlanta, GA",
+"sPos": "33.74852,-84.39641",
+"tName": "Cincinnati, OH",
+"tPos": "39.10781,-84.50419",
+"path": "go~lEntbbO{fI~M}cBnoCy|FzdAw|Gv~Fi_EfxB_m@foCepC~e@omErkF{gHveC{cFvxHpPn`BcNv_Esj@z}BaWr_D_hEb`BgrB_G}pCfsBscDzq@kaD_sAyiBr]cuCneGgzCnaCkeAnUetEvsEaeErjFerCffCoaGjRqgOoJoqEf\\qfB~aBurBbkA{wCjg@ggEzvB_kD~hAi|@nv@wbFz{@glFo[mbIjJccAzlA}lHnUwmCb~DwoCbwFixAb|I_wBblA}m@npAqfJjeHkxDc|Cus@sr@lhAs~AewBkbCy_DshFmcC{zIqgEguCgd@siEaw@kyAst@wyEssE{oGufBoeEgrMcqIcgFknBseA_}B_jAovDauFceCceFgiEihAoq@ojMwuMogVkaV{zBgrCa`N_tJa|F{nFaaE{~Emx@glBydG_wHciEosBmfCgbHkrGgid@wxCo`Ius@gaGy^c\\y}Ab{D_dBfoA}sBvkEonBjEyqGz~B_dEzdA}lCfyAshDvmFusCvcC_aIbbMycMvlJk_DcQc~Dfc@{jFnzEaQ~i@ubDzqAikE_nImf@koAq_Fc~CimHokLafEg_DusEz_@g|EffD{oC_AwzDblBqdBjkBm_CnXkdAk_@ytDJysHgq@_wDkzA}|Bb@m|Ak|Aw`Gk~@uaCc~@a|Doa@alDsu@yuOzNiAwkAks@bjBgjGj|@mdGj~GcgAfrF_nEr`He_En~@quDzlEotE~pBiwCja@a`BjcC{pHrs@etBol@_tBoCowI_gBorJcb@yrG~XkiF{j@{cMvsAonF_n@ylBvo@eiGoBggBfr@kmDbW}qBv_CwgJjkEm}C~CsnEbhBq~Fb|CosBjtCcwBnxBazC~cIwhIvu@ioCw`A{yOzpEqnIfd@a{@~XwfF~NuaEvt@axDc~@cnHzfBa`BnRsnCsNkkCzcA_gMk}CirDzyAacAjJu{AboAmuBkDmgOn}@qbAwh@qmFoLmiBbxBq|W~cBasDnn@wrB_vDcw@cy@gzBwbG{DggBgqAkiD}fEgS}`AwtA",
+"indicativePrice": {
+"price": 85,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://www.greyhound.com/",
+"host": "greyhound.com",
+"hops": [
+{
+"sName": "Atlanta, GA",
+"sPos": "33.74852,-84.39641",
+"tName": "Cincinnati, OH",
+"tPos": "39.10781,-84.50419",
+"frequency": 21,
+"duration": 615,
+"indicativePrice": {
+"price": 85,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "1109",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 7,
+"duration": 600
+},
+{
+"name": "1157",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 7,
+"duration": 595
+},
+{
+"name": "1179",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 7,
+"duration": 650
+}
+],
+"agencies": [
+{
+"agency": "GREYHOUNDUSA",
+"frequency": 21,
+"duration": 615,
+"actions": [
+{
+"text": "Schedules at",
+"url": "http://www.greyhound.com/",
+"displayUrl": "greyhound.com"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Atlanta, GA",
+"pos": "33.74852,-84.39641",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Marietta, GA",
+"pos": "33.94159,-84.51651",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Chattanooga, TN",
+"pos": "35.03204,-85.19398",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Knoxville, TN",
+"pos": "35.97244,-83.91964",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "London, KY",
+"pos": "37.11125,-84.08842",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Cincinnati, OH",
+"pos": "39.10781,-84.50419",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+}
+]
+},
+{
+"kind": "bus",
+"subkind": "bus",
+"vehicle": "bus",
+"isMajor": 1,
+"isImperial": 1,
+"distance": 174.96,
+"duration": 144,
+"transferDuration": 60,
+"sName": "Cincinnati, OH",
+"sPos": "39.10795,-84.50423",
+"tName": "Indianapolis, IN",
+"tPos": "39.76186,-86.16085",
+"path": "ugumFjvwbOlF~|AkUvgA}`Aj[cwAcPcyBz~@oh@zkBbIjjAceCrdCq[bnAaQn~Eil@j|@qSbhCidBnq@lu@bmDuB~KcpCjtG_g@bi@w}@frBmyBfzCet@zt@gZbwAgBzdElZjz@aDzz@|OnyJak@rqDso@b_AhDzbDzJvs@Pj|I`\\~cC`AvaG_Lj{Aak@zxCgr@~oAk_AzbEql@fgBu@naEsEz_AvAjvNk^zsBcwAr~C{o@bsDswBjxGqArzF}X~~@qv@feAapCbmBgxAvkBkzBbgBw]~m@q|BzaHqwBrwDeyE~eG{x@jzAsm@b{AidAfzAco@jnAss@reBsV~WuvGbgKw\\~^}bCzgEwvDfxHmG~RuqArkB}gBnaDuhBbxAs_CntC_TjdAeEv~C_~CrwHsE~]`EbcDuQbuB",
+"indicativePrice": {
+"price": 21,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://www.greyhound.com/",
+"host": "greyhound.com",
+"hops": [
+{
+"sName": "Cincinnati, OH",
+"sPos": "39.10795,-84.50423",
+"tName": "Indianapolis, IN",
+"tPos": "39.76186,-86.16085",
+"frequency": 21,
+"duration": 144,
+"indicativePrice": {
+"price": 21,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "4501",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 7,
+"duration": 120
+},
+{
+"name": "4511",
+"vehicle": "bus",
+"agency": "GREYHOUNDUSA",
+"frequency": 7,
+"duration": 120
+},
+{
+"name": "Schedules 0014 and 0015",
+"vehicle": "bus",
+"agency": "BARONSBUS",
+"frequency": 7,
+"duration": 193
+}
+],
+"agencies": [
+{
+"agency": "GREYHOUNDUSA",
+"frequency": 14,
+"duration": 120,
+"actions": [
+{
+"text": "Schedules at",
+"url": "http://www.greyhound.com/",
+"displayUrl": "greyhound.com"
+}
+]
+},
+{
+"agency": "BARONSBUS",
+"frequency": 7,
+"duration": 193,
+"actions": [
+{
+"text": "Schedules at",
+"url": "http://www.baronsbus.com/bus-routes",
+"displayUrl": "baronsbus.com"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Cincinnati, OH",
+"pos": "39.10795,-84.50423",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/New_York"
+},
+{
+"name": "Indianapolis, IN",
+"pos": "39.76186,-86.16085",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Indiana/Indianapolis"
+}
+]
+},
+{
+"kind": "bus",
+"subkind": "bus",
+"vehicle": "bus",
+"isMajor": 1,
+"isImperial": 1,
+"distance": 1870.9,
+"duration": 1520,
+"transferDuration": 60,
+"sName": "Indianapolis, IN",
+"sPos": "39.76208,-86.16012",
+"tName": "Denver, CO",
+"tPos": "39.75038,-104.9916",
+"path": "_`uqFvc{lOahDfgDwHjyJagFviLweFnzQm~ArjEqGzjKwyAr{FobGzgJq}@vuCahDbmEupErlP}qB~oEqdEb_GwsAbcFmqBbvNyy@~lLiCjdF}yBfcRmA~sLwZvpBdPf_g@pc@rnSbCb{K{zBjsAfaAb^sRbnQ|\\bse@jOjnByDbpk@ba@~hMsvIfiMkqCvjMwfAjtCwyEfxe@uaCneEkWreCeeLrgPk`Q~{e@}tAbsFs_MbY`FgbAaFfbAgpDwAwRvtOyiJvzOm{@zdEq^nhIqn@f|CrDrth@{lEvfMewErdEgsCjlDswCrq@kz@zsIgiJvzZecC~uFk}CnlKkDjjJ}tDr~SmcCbsL{U~lM_lAzvC{i@rwGchCjoDhOrmD_Orn@vzC~qNpg@rlF}cAfjRjUrnJj`@j_BbtDj_@|aAziCzgArpHrgBvq@o@z{d@fUjjGjeEr`ExHfqZyOc@oxBvzJc`@fpTwqFfYgaD~iFwt@fsGyaB~{B_~DjkPeaBbs_@ojAjqEQnfIovA~wJ{Wzd]{s@jlIpkAvqXnk@bhIis@vpNfSz_Gs~An_D_RzxF}fM{VqW~pS}qF~nKgqBfsG{vDndBofUb_@nDbl@oqJ~nTezEr{MuOriPusDfvEo_GbzMymJjnKdIvoDwqDrHq{FjfLmpA~iMxRve}@xb@b|F~Er{a@r|CzwHx`CnsShm@neKhfBbuFlVjyCzKvvRheCv|DpAbzYeNrs@sBv~g@~SzuBgUjgPyIbpq@~Hnf`@sHzaB_JjkkAz^fdKxeI~hCtv@~oBpbGvfGjdAfPf`Ff}Fv[bxBv}FvaGlgLnpJ}b@rjL{fBfjFffDzbCdr@v~XvgDzj@r~F~}I~hBvjBfbBniGhkFvjKtuDfuB`aCgTtaDfpCvmB~{HfwIbjMrjCvuHj}Aj`M`aFbsOpaBvtCpGn|K`{CzoDka@vcPtHviBiKvezEiyGv[v@ng@m_@~AdF~nt@_`Bn}A_GfkHLzcF~fLzgAyPfrB`vDrzRdiCfpHpsBnqIviDbiKvWrbE}CriIdhAzeJdaBnkIn^~rL~{BndNeTrfLpVrUkPz|WosBr}X|BntFq\\vcJ`TnvVkbCzmTq`EbbKmc@Sli@zXql@bbEmnCv}IqkFbmLmtDfcNaaD~{IwhCb}KmqNf`c@ecCncDyw@fmIw|HfwZui@nuFgvDjnMkrDva[oW?r]zrHiz@v{M_pAn|Jgb@j}Xn[f}XtnBvpGfaAblXgEn|I|YzxEqrAzdLgFjwZjPnkDpfB~xKde@rvGfxAziK|Mf~ElvA~`LzQv_GnjBzmJ|q@fgH|kC~mFxjDvkEvaAznDjeBzbC`{BvaGnfAriGOj_RbjTbjjAneKb_\\~tPzf]vyGj{H|i@g^ruMzvHz|WviVxk@jx@psWvii@xc@niCpJjlYzWbgG~z@rhBmfAv_C~PjnJvuBjlFbEb_E{o@ryNvb@jiGzjArlEhHvdN~sJz{`@lv@bjSpcGvmIdbAvfEcBrhFft@j|DjjFfsHxoKniKbtPbaTfrEfiMblNruPdcHfZ",
+"indicativePrice": {
+"price": 180,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"itineraries": [
+{
+"legs": [
+{
+"url": "http://www.burlingtontrailways.com/",
+"host": "burlingtontrailways.com",
+"hops": [
+{
+"sName": "Indianapolis, IN",
+"sPos": "39.76208,-86.16012",
+"tName": "Denver, CO",
+"tPos": "39.75038,-104.9916",
+"frequency": 7,
+"duration": 1520,
+"indicativePrice": {
+"price": 180,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"lines": [
+{
+"name": "1401 and 1402",
+"vehicle": "bus",
+"agency": "BURLINGTONTRAILWAYS",
+"frequency": 7,
+"duration": 1520
+}
+],
+"agencies": [
+{
+"agency": "BURLINGTONTRAILWAYS",
+"frequency": 7,
+"duration": 1520,
+"actions": [
+{
+"text": "Schedules at",
+"url": "http://www.burlingtontrailways.com/",
+"displayUrl": "burlingtontrailways.com"
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"stops": [
+{
+"name": "Indianapolis, IN",
+"pos": "39.76208,-86.16012",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Indiana/Indianapolis"
+},
+{
+"name": "Danville, IL",
+"pos": "40.13506,-87.625",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Champaign",
+"pos": "40.11566,-88.24146",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Bloomington/Normal, IL",
+"pos": "40.50968,-88.98425",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Peoria, IL",
+"pos": "40.68934,-89.59378",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Galesburg",
+"pos": "40.94476,-90.36463",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Galesburg, IL",
+"pos": "40.94732,-90.37225",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Monmouth, IL",
+"pos": "40.92336,-90.64801",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Burlington, IL",
+"pos": "40.81599,-91.15664",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Mt. Pleasant, IL",
+"pos": "40.9605,-91.5227",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Fairfield, IA",
+"pos": "41.00636,-91.99068",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Ottumwa, IA",
+"pos": "41.01892,-92.41409",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Oskaloosa, IA",
+"pos": "41.29533,-92.65234",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Monroe, IA",
+"pos": "41.52098,-93.10179",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Des Moines, IA",
+"pos": "41.5925,-93.6318",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Atlantic, IA",
+"pos": "41.49868,-94.94611",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Omaha, NE",
+"pos": "41.25451,-95.93722",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Lincoln, NE",
+"pos": "40.85853,-96.64748",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Aurora, NE",
+"pos": "40.86723,-98.00422",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Grand Island, NE",
+"pos": "40.88807,-98.34178",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Kearney, NE",
+"pos": "40.6734,-99.0863",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Lexington, NE",
+"pos": "40.7496,-99.7401",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "North Platte, NE",
+"pos": "41.1175,-100.7638",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Chicago"
+},
+{
+"name": "Ogallala, NE",
+"pos": "41.1161,-101.718",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+},
+{
+"name": "Sterling, CO",
+"pos": "40.6185,-103.1827",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+},
+{
+"name": "Fort Morgan, CO",
+"pos": "40.25401,-103.7896",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+},
+{
+"name": "Denver, CO",
+"pos": "39.75038,-104.9916",
+"kind": "station",
+"countryCode": "US",
+"timeZone": "America/Denver"
+}
+]
+}
+]
+},
+{
+"name": "Drive",
+"distance": 2688.45,
+"duration": 1647,
+"totalTransferDuration": 0,
+"indicativePrice": {
+"price": 210,
+"currency": "USD",
+"isFreeTransfer": 0
+},
+"stops": [
+{
+"name": "Raleigh",
+"pos": "35.7804,-78.63908",
+"kind": "city",
+"countryCode": "US",
+"regionCode": "NC"
+},
+{
+"name": "Denver",
+"pos": "39.73915,-104.9847",
+"kind": "city",
+"countryCode": "US",
+"regionCode": "CO"
+}
+],
+"segments": [
+{
+"kind": "car",
+"subkind": "car",
+"isMajor": 1,
+"isImperial": 1,
+"distance": 2688.45,
+"duration": 1647,
+"transferDuration": 0,
+"sName": "Raleigh",
+"sPos": "35.7804,-78.63908",
+"tName": "Denver",
+"tPos": "39.73915,-104.9847",
+"vehicle": "car",
+"path": "ojkyEde~~McoFtvRsjD|eIyrIf`OsnA~~SqlGhtCcuB~fK}cKtcE_~E`gK_e@taKdtA|yQ|b@`uNek@juSnr@d{YzHrsKroC`|So{AfmI_lKlif@h@lyP~qAxeMizJb}BqzKvbKu~A|gDidQbgTwbMhiGe~FbzInf@tkGejFvqTmyBbyEy{Fp|@}dOevAwpJ_jC_eC~~CacIjoFevDjaIixOhhGk`Fhg@}aGfaLsWzbTsdNl_Jw_CrqDg}V|FmxGsmH_fGjsD}gWwkMukSrpEi`DxpF{m^mV_lLncQypQxeAy`HjhHi_LigAqrOzzS{xQlyD{}AlwIwmHnrEe_CvsHogGvlGavJq|@aaGvzMiQb_RgaNfgQycB`aJyLr~NtaFfeVmzB|`HzcAtiPb|A`uIef@|gJrkEh`S{lA|hGzdAtlQx|@xqC`i@lsO`dAlvIma@|}SxbG`_c@rWvyZq}@tqDt`FfkTldChhG`u@tdLf}Lx}HbxAdmQj~CxmHnD|iMjiEfdNcF|bDpxB|gG`tDjtWdcBrcOf~DniIrbCjnRuaDr}KknDf_ZzPjmEe_Fj_Gk{Er~NcwAjyBgwBjaJfWviDiWjvMi_AjvHrGngHhiDbv^mlDzs^eiAz~E}Jv}IcsAvmHwfBj|Q_o@fa\\dBzyEiiI~bn@g`DjrE~KzpG~uGjmW|cB~eVuSbaVukAbsHfzAjyQb_Bfxx@`dCnvY_RnmI|mArpPmj@vgXzRfz`@xxAniTxrAraGdQjiR_Bjyh@eeBnmCsMnmI_~@rbDeIzhLelFryPyXneb@mbCndL}h@bxN~Df|~@o}@fj]vf@nuH}TfgKolKbyCwwCrbKuQn{K}fCreHaq@rlp@ylEvpO}c@zfHypDvxHsfHj|KqpBr~OefBvxBudE~v\\e]~cGeqBzsGcWnxF{xDbp_@k|Hn}Fk}InxYuk@joLatFvqQomAj}I{ZfeMk\\nbg@`LrxGc{CrlTpz@rb`@i_DjnIuvEfq\\yaCjdMw@zjTvi@~lIm`BflEeHv{KacDjcSmq@jnW{b@~yAeMv|b@kwAn~i@yJng]`}DbzH|\\nfmA}gAfmBgvArng@i}@vbImr@~hh@g}Aj}Wt@r{Uqi@zzBsdArbeA_v@fyReuCvpd@eYjhO_wHfuYcp@nah@lkGnlk@vzBn|HncHj|Pji@f_N{z@beTyMviK{`BfyJqEzxEghD~yZylBv`L`}@~}BoXryPkHza~@ig@z_CxGjrp@{[b~Frd@~hKc\\faO~mAbcVxaDjiF`wDjnKaGvfKroAr|VfqGz|Ttn@bwS|h@reCtRnvUrtBzvEdEnqQjb@ftDhwCzpI}Onqt@`GznY|uDbe[}EvrbAwl@n~IIvwn@oi@jjE`Fzfn@m~AfrGuF~v[{eGjcTsCneG}jDrzR_Gv}LsrD~gRqFvmD}eGvng@qKvtm@qbMru]sAfpPiuA~lMoPbr{@gme@~~_@aw@z~ByuGbrH_Avcu@bwEb`NzGjxdBk@j~[`hCblb@~oAjsCvGjoc@uIv|BxKfunAhyBvnUexAvxMjcAbgnA`hArgMnMfkTucAniCObqHguAbhI}xCzcF{pEr{CepEb`FyxEveBuzBrvBot^~xTgwEjpB{xE~`FghCrlFsfGb__@{Tz~Oq_@fsEgVnk~@{sDbmMks@j_^jyFnjB",
+"indicativePrice": {
+"price": 210,
+"currency": "USD",
+"isFreeTransfer": 0
+}
+}
+]
+}
+]
+}

@@ -1,6 +1,6 @@
 require './movies.rb'
 
-class FLight
+class FLights
 
   def initialize(origin, destination)
 

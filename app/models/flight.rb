@@ -1,6 +1,5 @@
 class Flight
   def initialize(origin, destination)
-
     @origin = origin
     @destination = destination
     @page = get_data

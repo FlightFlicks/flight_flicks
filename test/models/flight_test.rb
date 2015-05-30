@@ -1,15 +1,14 @@
-require 'minitest/autorun'
-require 'minitest/pride'
-require './flights.rb'
-require './movies.rb'
-require 'json'
+require 'test_helper'
 
-class Flights
+class Flight
   private def get_data
     JSON.parse(File.open("travel_info.json").read)
   end
 end
 
-class FlightTest < Minitest::Test
-
+class FlightTest < ActiveSupport::TestCase
+  test "flight duration" do
+    f = Flight.new
+    assert_equal 0, f.duration
+  end
 end

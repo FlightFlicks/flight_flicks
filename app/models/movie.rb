@@ -12,20 +12,19 @@ class Movie
     #will change later
   end
 
-  def movie_run_time
-    @page[runtime] < Flight.duration.to_i
-    @movies.each do |movie_id|
-      movie.
-  end
-
-  def movie_title
-    @page["title"]
-  end
-
-  def movie_id
-    @movies.each do
-    @movie_id = MovieGenre.find_movie
-  end
+  # def movie_run_time
+  #   @page[runtime] < Flight.duration.to_i
+  #   @movies.each do |movie_id|
+  #     movie.
+  # end
+  #
+  # def movie_title
+  #   @page["title"]
+  # end
+  #
+  # def movie_id
+  #     @movie_id = MovieGenre.find_movie
+  # end
 
 
 

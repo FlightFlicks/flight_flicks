@@ -1,4 +1,5 @@
 require 'test_helper'
+require 'genre.rb'
 
 class Genre
   private def get_data

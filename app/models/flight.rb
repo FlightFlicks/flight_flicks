@@ -16,7 +16,7 @@ class Flight
         total = s["duration"]
       end
     end
-    p total
+    total
   end
 
 end

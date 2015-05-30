@@ -1,4 +1,5 @@
 require 'test_helper'
+require 'flight.rb'
 
 class Flight
   private def get_data
@@ -8,7 +9,6 @@ end
 
 class FlightTest < ActiveSupport::TestCase
   test "flight duration" do
-    f = Flight.new
-    assert_equal 0, f.duration
+    assert_equal 220, Flight.new("Raleigh", "Denver").duration
   end
 end

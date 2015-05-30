@@ -12,7 +12,7 @@ class MovieGenre
 
   def find_movie
     @page["id"]["page"]["results"].each do |movie|
-      movies << movie["id"]
-
+      @movies << movie["id"]
     end
   end
+end

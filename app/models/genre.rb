@@ -11,7 +11,8 @@ class Genre
   end
 
   def get_id
-    @page["genres"].select {|g| g["name"] == @genre}
+    object = @page["genres"].select {|g| g["name"] == @genre}
+    object[0]["id"]   
   end
 
 

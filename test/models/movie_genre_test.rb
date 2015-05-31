@@ -1,5 +1,6 @@
 require 'test_helper'
 require 'movie_genre.rb'
+# require './app/models/movie.rb'
 
 class MovieGenre
   private def get_movie_data

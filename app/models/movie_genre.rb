@@ -1,3 +1,5 @@
+# require './movie.rb'
+
 class MovieGenre
   attr_reader :genre
   def initialize(genre)
@@ -7,7 +9,7 @@ class MovieGenre
   end
 
   def get_movie_data
-    HTTParty.get("http://api.themoviedb.org/3/genre/#{get_id}/movies?api_key=#{ENV["MOVIE_KEY"]}&page=#{(1..2000).sample}")
+    HTTParty.get("http://api.themoviedb.org/3/genre/#{self.get_id}/movies?api_key=#{ENV["MOVIE_KEY"]}&page=#{(1..2000).sample}")
   end
 
   def get_genre_id_data

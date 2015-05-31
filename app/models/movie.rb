@@ -1,10 +1,13 @@
+# require 'movie_genre.rb'
 
 class Movie
+  attr_reader :movie
   def initialize (movie)
     @page = get_data
-    @movie_id = []
-    # @movie = @movies_id.sample
+    # @movie_id = []
     @movie = movie
+    # @genre = genre
+    # @movie = movie
 
   end
 
@@ -25,9 +28,9 @@ class Movie
     @page["title"]
   end
 
-  def movies_id
-    @movies_id = MovieGenre.find_movies
-  end
+  # def movies_id
+  #   @movies_id = MovieGenre.find_movies
+  # end
 
 
 

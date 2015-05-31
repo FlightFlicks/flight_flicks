@@ -1,4 +1,5 @@
 require 'test_helper'
+require 'flights_controller.rb'
 
 class FlightsControllerTest < ActionController::TestCase
   test "should get index" do
@@ -7,9 +8,9 @@ class FlightsControllerTest < ActionController::TestCase
   end
 
   test "should show flight duration" do
-    flight = Flight.new("Raleigh", "Dallas")
-    page = get :show
-    assert_equal 185, page["flight_time"]
+    flight = Flight.new("Raleigh", "Denver")
+    get :show
+    assert_equal "220", response.body
   end
 
 

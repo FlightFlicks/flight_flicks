@@ -1,11 +1,5 @@
-
-require 'minitest/autorun'
-require 'minitest/pride'
-require 'json'
-
 require 'test_helper'
 require 'flight.rb'
-
 
 class Flight
   private def get_data

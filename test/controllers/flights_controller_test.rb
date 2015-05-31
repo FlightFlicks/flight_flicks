@@ -12,7 +12,4 @@ class FlightsControllerTest < ActionController::TestCase
     get :show
     assert_equal "220", response.body
   end
-
-
-
 end

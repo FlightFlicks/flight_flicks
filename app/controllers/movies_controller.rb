@@ -1,6 +1,6 @@
 class MoviesController < ApplicationController
   def index
-    movie = Movie.new(params[:genre])
+    movie = Movie.new
     render json: movie
   end
 

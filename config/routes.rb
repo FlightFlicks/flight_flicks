@@ -1,7 +1,15 @@
 Rails.application.routes.draw do
 
+  # get 'travel' => 'index#flights'
   get 'flights/index'
+<<<<<<< HEAD
   get 'movies/search'
+=======
+  get 'flights/show'
+  # get 'genres/index'
+  get 'movie_genres/index'
+  get 'movies/index'
+>>>>>>> ebedce57eb62115445da272a3f769a84488ac6a4
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

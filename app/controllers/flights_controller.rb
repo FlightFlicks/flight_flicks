@@ -1,10 +1,13 @@
 class FlightsController < ApplicationController
   def index
-    f = Flight.new(params[:origin], params[:destination])
-    render json: f.duration
+    render json: Flight.new(params[:origin], params[:destination])
   end
 
-  # def show
-  #   render json: Flights.find_by_id(params[:id])
-  # end
+  def show
+    f = Flight.new(params[:origin], params[:destination])
+    render json: {:origin => params[:origin], :destination => params[:destination], :flight_time => f.duration}
+    #not sure if this is right...
+  end
+
+
 end

@@ -1,10 +1,10 @@
 
 class Movie
-
-  def initialize
+  def initialize (movie)
     @page = get_data
     @movie_id = []
-    @movie = @movie_id.sample
+    # @movie = @movies_id.sample
+    @movie = movie
 
   end
 
@@ -13,19 +13,20 @@ class Movie
     #will change later
   end
 
-  # def movie_run_time
-  #   @page[runtime] < Flight.duration.to_i
+  def movie_run_time
+     @page["runtime"]
+  #  < Flight.duration.to_i
   #   @movies.each do |movie_id|
   #     movie.
   #   end
-  # end
+  end
 
   def movie_title
     @page["title"]
   end
 
-  def movie_id
-      @movie_id = MovieGenre.find_movies
+  def movies_id
+    @movies_id = MovieGenre.find_movies
   end
 
 

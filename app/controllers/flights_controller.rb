@@ -4,8 +4,8 @@ class FlightsController < ApplicationController
   end
 
   def show
-    @duration = Flight.new(params[:origin], params[:destination])
-    @duration.duration
+    f = Flight.new(params[:origin], params[:destination])
+    render json: {:origin => params[:origin], :destination => params[:destination], :flight_time => f.duration}
     #not sure if this is right...
   end
 

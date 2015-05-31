@@ -10,6 +10,6 @@ class FlightsControllerTest < ActionController::TestCase
   test "should show flight duration" do
     flight = Flight.new("Raleigh", "Denver")
     get :show
-    assert_equal "220", response.body
+    assert response.body =~ /220/
   end
 end

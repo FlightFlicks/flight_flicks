@@ -4,7 +4,7 @@ Rails.application.routes.draw do
   get 'flights/index'
   get 'movies/search'
   get 'flights/show'
-  # get 'genres/index'
+  get 'genres/show'
   get 'movie_genres/index'
   get 'movies/index'
   # The priority is based upon order of creation: first created -> highest priority.

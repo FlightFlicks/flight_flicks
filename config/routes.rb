@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
   # get 'travel' => 'index#flights'
-  get 'flights/index'
+  get 'travel/info' => 'flights#index'
   get 'movies/search'
   get 'flights/show'
   get 'genres/show'

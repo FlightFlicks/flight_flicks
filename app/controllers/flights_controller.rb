@@ -5,7 +5,7 @@ class FlightsController < ApplicationController
 
   def show
     f = Flight.new(params[:origin], params[:destination])
-    render json: f.duration
+    render json: {origin: params[:origin], destination: params[:destination], flight_time: f.duration}
     #not sure if this is right...
   end
 

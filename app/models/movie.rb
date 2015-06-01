@@ -1,5 +1,3 @@
-# require 'movie_genre.rb'
-
 class Movie
   attr_reader :movie
   def initialize (movie)
@@ -28,15 +26,18 @@ class Movie
     @page["title"]
   end
 
+  # def movie_flight
+  #   if @page["runtime"] > Flight.duration.to_i
+  #     "This movie to long, lets try another"
+  #   elsif @page["runtime"] < (Flight.duration.to_i - 20)
+  #     "This movie is to short, lets try another"
+  #   else
+  #     "This movie is a great pick"
+  #   end
+  # end
+
   # def movies_id
   #   @movies_id = MovieGenre.find_movies
   # end
-
-
-
-
-
-
-
 
 end

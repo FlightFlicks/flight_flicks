@@ -11,7 +11,7 @@ class MoviesControllerTest < ActionController::TestCase
     flight = Flight.new("Raleigh", "Denver")
     movie = Movie.new(348)
     get :show
-    p response.body
+    response.body
     assert response.body =~ /This movie is to short, lets try another/
   end
 
